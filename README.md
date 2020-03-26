@@ -11,6 +11,8 @@ These notebooks use the [Almond kernel](https://almond.sh/).  You can run a note
 
 You can also work interactively with these notebooks on [mybinder.org](https://mybinder.org/v2/gh/Eumaeus/gifts_bearing_greek/master?filepath=index.ipynb).
 
+**If you use MyBinder, and get a "No Kernel Selected" notice, choose "Scala 2.12."**
+
 If you have Jupyter Notebooks installed locally, with the Almond kernal, you can run this with:
 
     jupyter notebook
