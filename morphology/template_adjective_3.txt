@@ -1,0 +1,25 @@
+adjective, 3-terminations
+masc. nom. sing.
+masc. gen. sing.
+masc. dat. sing.
+masc. acc. sing.
+masc. nom. pl.
+masc. gen. pl.
+masc. dat. pl.
+masc. acc. pl.
+fem. nom. sing.
+fem. gen. sing.
+fem. dat. sing.
+fem. acc. sing.
+fem. nom. pl.
+fem. gen. pl.
+fem. dat. pl.
+fem. acc. pl.
+neut. nom. sing.
+neut. gen. sing.
+neut. dat. sing.
+neut. acc. sing.
+neut. nom. pl.
+neut. gen. pl.
+neut. dat. pl.
+neut. acc. pl.

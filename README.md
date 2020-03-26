@@ -1,5 +1,5 @@
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eumaeus/fuCite-jupyter/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eumaeus/gifts_bearing_greek/master?filepath=index.ipynb)
 
 # Furman University · GIFTs Bearing Greek
 
@@ -9,7 +9,7 @@ These notebooks use the [Almond kernel](https://almond.sh/).  You can run a note
 
     docker run -it --rm -p 8888:8888 almondsh/almond:0.9.0
 
-You can also work interactively with these notebooks on [mybinder.org](https://mybinder.org/v2/gh/Eumaeus/fuCite-jupyter/master).
+You can also work interactively with these notebooks on [mybinder.org](https://mybinder.org/v2/gh/Eumaeus/gifts_bearing_greek/master?filepath=index.ipynb).
 
 If you have Jupyter Notebooks installed locally, with the Almond kernal, you can run this with:
 
