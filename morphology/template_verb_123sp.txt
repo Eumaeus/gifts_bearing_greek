@@ -1,0 +1,11 @@
+// Commented lines and blank lines are disregarded.
+verb, 1st, 2nd, 3rd, s/p
+
+1st sing.
+2nd sing.
+2nd sing. alt.
+3rd sing.
+
+1st pl.
+2nd pl.
+3rd pl.
