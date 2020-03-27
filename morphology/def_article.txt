@@ -1,24 +1,32 @@
-form of the definite article _the_ 
+the definite article _the_ 
+
 ὁ
 τοῦ
 τῷ
 τόν
+
 οἱ
 τῶν
 τοῖς
 τούς
+
+
 ἡ
 τῆς
 τῇ
 τήν
+
 αἱ
 τῶν
 ταῖς
 τάς
+
+
 τό
 τοῦ
 τῷ
 τό
+
 τά
 τῶν
 τοῖς
