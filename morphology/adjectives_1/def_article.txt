@@ -1,3 +1,4 @@
+adjectives_1/template_adjective_3.txt
 the definite article _the_ 
 
 ὁ

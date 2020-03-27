@@ -1,0 +1,399 @@
+::P0::[markdown]Identify this form of the definite article _the_ : ὁ {
+~%-100%masc. acc. pl.
+~%-100%neut. acc. sing.
+~%-100%masc. nom. sing.
+~%100%adjective, 3-terminations
+~%-100%fem. nom. sing.
+}
+
+::P1::[markdown]Identify this form of the definite article _the_ : τάς {
+~%-100%fem. dat. sing.
+~%-100%neut. nom. sing.
+~%100%fem. dat. pl.
+~%-100%fem. gen. sing.
+~%-100%masc. acc. pl.
+}
+
+::P2::[markdown]Identify this form of the definite article _the_ : τῶν {
+~%-100%fem. dat. pl.
+~%100%fem. nom. pl.
+~%-100%neut. acc. sing.
+~%-100%fem. gen. pl.
+~%-100%fem. gen. sing.
+}
+
+::P3::[markdown]Identify this form of the definite article _the_ : τοῖς {
+~%100%masc. gen. pl.
+~%-100%masc. dat. sing.
+~%-100%masc. gen. sing.
+~%-100%fem. nom. pl.
+~%-100%masc. dat. pl.
+}
+
+::P4::[markdown]Identify this form of the definite article _the_ : τόν {
+~%-100%fem. nom. pl.
+~%-100%neut. dat. sing.
+~%-100%masc. gen. pl.
+~%100%masc. dat. sing.
+~%-100%neut. acc. sing.
+}
+
+::P5::[markdown]Identify this form of the definite article _the_ : τόν {
+~%-100%adjective, 3-terminations
+~%-100%neut. gen. sing.
+~%100%masc. dat. sing.
+~%-100%fem. gen. pl.
+~%-100%masc. nom. pl.
+}
+
+::P6::[markdown]Identify this form of the definite article _the_ : τοῦ {
+~%-100%masc. nom. pl.
+~%-100%neut. dat. sing.
+~%-100%fem. nom. sing.
+~%50%masc. nom. sing.
+~%50%neut. nom. sing.
+}
+
+::P7::[markdown]Identify this form of the definite article _the_ : ἡ {
+~%100%masc. acc. pl.
+~%-100%neut. gen. pl.
+~%-100%fem. dat. pl.
+~%-100%fem. acc. pl.
+~%-100%masc. dat. sing.
+}
+
+::P8::[markdown]Identify this form of the definite article _the_ : ἡ {
+~%100%masc. acc. pl.
+~%-100%masc. acc. sing.
+~%-100%fem. acc. pl.
+~%-100%masc. dat. sing.
+~%-100%neut. gen. pl.
+}
+
+::P9::[markdown]Identify this form of the definite article _the_ : τά {
+~%100%neut. acc. sing.
+~%-100%masc. acc. sing.
+~%-100%masc. gen. pl.
+~%-100%fem. gen. pl.
+~%-100%fem. nom. pl.
+}
+
+::P10::[markdown]Identify this form of the definite article _the_ : τῶν {
+~%-100%neut. nom. sing.
+~%50%neut. nom. pl.
+~%-100%masc. acc. pl.
+~%-100%fem. dat. sing.
+~%50%masc. nom. pl.
+}
+
+::P11::[markdown]Identify this form of the definite article _the_ : τό {
+~%-100%fem. nom. sing.
+~%-100%fem. dat. pl.
+~%-100%fem. dat. sing.
+~%-100%masc. dat. sing.
+~%100%fem. acc. pl.
+}
+
+::P12::[markdown]Identify this form of the definite article _the_ : τοῖς {
+~%50%neut. gen. pl.
+~%-100%neut. dat. pl.
+~%50%masc. gen. pl.
+~%-100%fem. dat. sing.
+~%-100%masc. acc. pl.
+}
+
+::P13::[markdown]Identify this form of the definite article _the_ : τά {
+~%50%neut. acc. sing.
+~%-100%masc. gen. sing.
+~%-100%masc. acc. sing.
+~%50%neut. dat. pl.
+~%-100%fem. dat. pl.
+}
+
+::P14::[markdown]Identify this form of the definite article _the_ : τῶν {
+~%100%neut. nom. pl.
+~%-100%masc. nom. sing.
+~%-100%fem. gen. sing.
+~%-100%masc. dat. pl.
+~%-100%neut. acc. sing.
+}
+
+::P15::[markdown]Identify this form of the definite article _the_ : τό {
+~%-100%neut. gen. pl.
+~%100%neut. dat. sing.
+~%-100%neut. nom. sing.
+~%-100%neut. nom. pl.
+~%-100%fem. nom. sing.
+}
+
+::P16::[markdown]Identify this form of the definite article _the_ : τοῖς {
+~%-100%neut. dat. sing.
+~%-100%masc. acc. sing.
+~%100%masc. gen. pl.
+~%-100%neut. acc. sing.
+~%-100%neut. dat. pl.
+}
+
+::P17::[markdown]Identify this form of the definite article _the_ : τῇ {
+~%-100%masc. acc. sing.
+~%-100%neut. gen. pl.
+~%100%fem. gen. sing.
+~%-100%neut. nom. pl.
+~%-100%fem. nom. pl.
+}
+
+::P18::[markdown]Identify this form of the definite article _the_ : τοῦ {
+~%-100%fem. gen. sing.
+~%-100%masc. gen. sing.
+~%-100%fem. gen. pl.
+~%100%masc. nom. sing.
+~%-100%fem. nom. pl.
+}
+
+::P19::[markdown]Identify this form of the definite article _the_ : τοῖς {
+~%-100%masc. acc. pl.
+~%100%neut. gen. pl.
+~%-100%masc. dat. pl.
+~%-100%fem. nom. pl.
+~%-100%masc. dat. sing.
+}
+
+::P20::[markdown]Identify this form of the definite article _the_ : τῷ {
+~%-100%masc. nom. pl.
+~%100%neut. gen. sing.
+~%-100%fem. dat. pl.
+~%-100%fem. gen. sing.
+~%-100%masc. dat. sing.
+}
+
+::P21::[markdown]Identify this form of the definite article _the_ : ἡ {
+~%-100%fem. gen. sing.
+~%100%masc. acc. pl.
+~%-100%neut. dat. pl.
+~%-100%neut. acc. sing.
+~%-100%masc. gen. sing.
+}
+
+::P22::[markdown]Identify this form of the definite article _the_ : τῆς {
+~%-100%masc. dat. pl.
+~%100%fem. nom. sing.
+~%-100%masc. gen. sing.
+~%-100%masc. dat. sing.
+~%-100%fem. gen. sing.
+}
+
+::P23::[markdown]Identify this form of the definite article _the_ : τῷ {
+~%-100%neut. nom. pl.
+~%-100%neut. dat. sing.
+~%-100%fem. gen. sing.
+~%100%masc. gen. sing.
+~%-100%fem. acc. pl.
+}
+
+::P24::[markdown]Identify this form of the definite article _the_ : τοῦ {
+~%-100%adjective, 3-terminations
+~%-100%neut. gen. pl.
+~%-100%neut. acc. sing.
+~%-100%fem. gen. sing.
+~%100%masc. nom. sing.
+}
+
+::P25::[markdown]Identify this form of the definite article _the_ : οἱ {
+~%100%masc. acc. sing.
+~%-100%fem. dat. pl.
+~%-100%fem. nom. sing.
+~%-100%masc. gen. sing.
+~%-100%fem. gen. pl.
+}
+
+::P26::[markdown]Identify this form of the definite article _the_ : τήν {
+~%-100%fem. nom. pl.
+~%-100%masc. dat. pl.
+~%100%fem. dat. sing.
+~%-100%neut. gen. sing.
+~%-100%masc. gen. sing.
+}
+
+::P27::[markdown]Identify this form of the definite article _the_ : τῶν {
+~%-100%fem. dat. pl.
+~%50%masc. nom. pl.
+~%-100%fem. nom. sing.
+~%50%neut. nom. pl.
+~%-100%neut. nom. sing.
+}
+
+::P28::[markdown]Identify this form of the definite article _the_ : τοῦ {
+~%-100%fem. dat. pl.
+~%-100%masc. dat. sing.
+~%100%neut. nom. sing.
+~%-100%neut. acc. sing.
+~%-100%fem. gen. sing.
+}
+
+::P29::[markdown]Identify this form of the definite article _the_ : τῶν {
+~%-100%masc. dat. pl.
+~%-100%neut. gen. pl.
+~%-100%fem. gen. sing.
+~%-100%fem. nom. sing.
+~%100%fem. nom. pl.
+}
+
+::P30::[markdown]Identify this form of the definite article _the_ : τούς {
+~%-100%adjective, 3-terminations
+~%-100%masc. gen. pl.
+~%-100%neut. gen. pl.
+~%100%masc. dat. pl.
+~%-100%neut. nom. sing.
+}
+
+::P31::[markdown]Identify this form of the definite article _the_ : τοῖς {
+~%-100%fem. dat. sing.
+~%-100%masc. dat. sing.
+~%-100%masc. acc. sing.
+~%100%neut. gen. pl.
+~%-100%neut. nom. pl.
+}
+
+::P32::[markdown]Identify this form of the definite article _the_ : οἱ {
+~%-100%masc. nom. sing.
+~%100%masc. acc. sing.
+~%-100%neut. dat. sing.
+~%-100%masc. dat. sing.
+~%-100%fem. acc. pl.
+}
+
+::P33::[markdown]Identify this form of the definite article _the_ : τῷ {
+~%-100%fem. gen. sing.
+~%-100%neut. gen. pl.
+~%100%masc. gen. sing.
+~%-100%masc. acc. pl.
+~%-100%fem. acc. pl.
+}
+
+::P34::[markdown]Identify this form of the definite article _the_ : τῷ {
+~%-100%fem. dat. sing.
+~%-100%neut. gen. pl.
+~%100%masc. gen. sing.
+~%-100%neut. nom. pl.
+~%-100%neut. acc. sing.
+}
+
+::P35::[markdown]Identify this form of the definite article _the_ : τῆς {
+~%-100%fem. dat. sing.
+~%-100%masc. gen. sing.
+~%100%fem. nom. sing.
+~%-100%masc. dat. sing.
+~%-100%masc. dat. pl.
+}
+
+::P36::[markdown]Identify this form of the definite article _the_ : τούς {
+~%-100%masc. dat. sing.
+~%-100%neut. gen. sing.
+~%-100%masc. acc. pl.
+~%100%masc. dat. pl.
+~%-100%fem. acc. pl.
+}
+
+::P37::[markdown]Identify this form of the definite article _the_ : τῆς {
+~%-100%masc. dat. pl.
+~%-100%masc. acc. pl.
+~%-100%neut. dat. sing.
+~%-100%adjective, 3-terminations
+~%100%fem. nom. sing.
+}
+
+::P38::[markdown]Identify this form of the definite article _the_ : τῶν {
+~%-100%neut. nom. sing.
+~%100%fem. nom. pl.
+~%-100%masc. acc. pl.
+~%-100%masc. gen. pl.
+~%-100%fem. dat. pl.
+}
+
+::P39::[markdown]Identify this form of the definite article _the_ : τά {
+~%-100%masc. gen. sing.
+~%-100%masc. gen. pl.
+~%50%neut. acc. sing.
+~%-100%neut. gen. pl.
+~%50%neut. dat. pl.
+}
+
+::P40::[markdown]Identify this form of the definite article _the_ : ὁ {
+~%-100%masc. dat. sing.
+~%-100%masc. acc. sing.
+~%-100%neut. dat. pl.
+~%100%adjective, 3-terminations
+~%-100%fem. nom. sing.
+}
+
+::P41::[markdown]Identify this form of the definite article _the_ : τά {
+~%100%neut. dat. pl.
+~%-100%neut. nom. sing.
+~%-100%masc. acc. sing.
+~%-100%fem. acc. pl.
+~%-100%neut. gen. pl.
+}
+
+::P42::[markdown]Identify this form of the definite article _the_ : ταῖς {
+~%-100%fem. dat. pl.
+~%-100%fem. acc. pl.
+~%100%fem. gen. pl.
+~%-100%masc. acc. sing.
+~%-100%neut. gen. sing.
+}
+
+::P43::[markdown]Identify this form of the definite article _the_ : τοῦ {
+~%50%masc. nom. sing.
+~%-100%fem. dat. sing.
+~%50%neut. nom. sing.
+~%-100%masc. gen. sing.
+~%-100%neut. nom. pl.
+}
+
+::P44::[markdown]Identify this form of the definite article _the_ : τήν {
+~%-100%neut. nom. sing.
+~%-100%masc. acc. pl.
+~%-100%fem. nom. pl.
+~%-100%adjective, 3-terminations
+~%100%fem. dat. sing.
+}
+
+::P45::[markdown]Identify this form of the definite article _the_ : τό {
+~%-100%fem. gen. sing.
+~%-100%masc. acc. pl.
+~%-100%fem. nom. sing.
+~%-100%masc. dat. sing.
+~%100%neut. dat. sing.
+}
+
+::P46::[markdown]Identify this form of the definite article _the_ : τάς {
+~%-100%masc. acc. pl.
+~%-100%neut. nom. pl.
+~%-100%masc. gen. sing.
+~%100%fem. dat. pl.
+~%-100%neut. dat. pl.
+}
+
+::P47::[markdown]Identify this form of the definite article _the_ : τῇ {
+~%-100%fem. dat. sing.
+~%100%fem. gen. sing.
+~%-100%neut. gen. pl.
+~%-100%fem. nom. pl.
+~%-100%neut. nom. pl.
+}
+
+::P48::[markdown]Identify this form of the definite article _the_ : τόν {
+~%-100%neut. nom. sing.
+~%-100%fem. nom. sing.
+~%100%masc. dat. sing.
+~%-100%masc. nom. sing.
+~%-100%adjective, 3-terminations
+}
+
+::P49::[markdown]Identify this form of the definite article _the_ : τό {
+~%-100%neut. gen. sing.
+~%-100%neut. acc. sing.
+~%-100%masc. dat. sing.
+~%100%fem. acc. pl.
+~%-100%fem. nom. pl.
+}
