@@ -3,7 +3,10 @@
 
 # Furman University · GIFTs Bearing Greek
 
+
 This repository hosts Jupyter Notebook that use Scala and some simple plain-text template-files to generate [`.gift` formatted quiz questions compatible with Moodle.](https://docs.moodle.org/38/en/GIFT_format)
+
+Some example GIFT files are in the `gifts` directory. Documentation is "by example" for now (note the euphemism… things are busy ’round here).
 
 These notebooks use the [Almond kernel](https://almond.sh/).  You can run a notebook server with the Almond kernel using a docker container like this:
 
