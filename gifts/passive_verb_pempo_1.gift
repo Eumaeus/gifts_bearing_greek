@@ -1,399 +1,399 @@
-::P0::[markdown]Identify this form of the verb _I send_: πέμπει {
-~%100%present act. 3rd sing.
-~%-100%present act. 1st sing.
-~%-100%imperf. act. 1st pl.
-~%-100%present act. 1st pl.
-~%-100%imperf. act. 2nd pl.
-}
-
-::P1::[markdown]Identify this form of the verb _I send_: ἔπεμπον {
-~%-100%imperf. act. 3rd sing.
-~%-100%imperf. act. 2nd pl.
-~%100%imperf. act. 1st sing.
-~%-100%present act. 2nd sing.
-~%-100%present act. 3rd sing.
-}
-
-::P2::[markdown]Identify this form of the verb _I send_: πέμπει {
-~%-100%present act. 2nd sing.
-~%-100%imperf. act. 2nd sing.
-~%100%present act. 3rd sing.
-~%-100%imperf. act. 1st sing.
-~%-100%imperf. act. 2nd pl.
-}
-
-::P3::[markdown]Identify this form of the verb _I send_: ἔπεμπε {
-~%-100%present act. 3rd pl.
-~%-100%present act. 1st pl.
-~%-100%imperf. act. 3rd pl.
-~%100%imperf. act. 3rd sing.
-~%-100%present act. 1st sing.
-}
-
-::P4::[markdown]Identify this form of the verb _I send_: πέμπομεν {
-~%-100%present act. 1st sing.
-~%100%present act. 1st pl.
-~%-100%imperf. act. 2nd pl.
+::P0::[markdown]Identify this form of the verb _I send_: __πέμπεις__ {
 ~%-100%present act. infinitive
-~%-100%imperf. act. 3rd pl.
-}
-
-::P5::[markdown]Identify this form of the verb _I send_: πέμπεις {
-~%-100%imperf. act. 2nd sing.
-~%-100%present act. 3rd pl.
-~%-100%present act. 1st pl.
+~%-100%present act. 2nd pl.
+~%-100%imperf. act. 3rd sing.
 ~%-100%present act. 1st sing.
 ~%100%present act. 2nd sing.
 }
 
-::P6::[markdown]Identify this form of the verb _I send_: ἔπεμπον {
+::P1::[markdown]Identify this form of the verb _I send_: __ἐπέμπετε__ {
+~%-100%imperf. act. 2nd sing.
+~%-100%present act. 3rd sing.
+~%-100%imperf. act. 1st pl.
+~%-100%present act. 1st pl.
+~%100%imperf. act. 2nd pl.
+}
+
+::P2::[markdown]Identify this form of the verb _I send_: __ἔπεμπον__ {
+~%-100%present act. 1st pl.
+~%-100%imperf. act. 3rd sing.
 ~%100%imperf. act. 1st sing.
 ~%-100%imperf. act. 1st pl.
-~%-100%imperf. act. 3rd sing.
-~%-100%present act. 2nd pl.
-~%-100%present act. 1st sing.
-}
-
-::P7::[markdown]Identify this form of the verb _I send_: ἔπεμπε {
-~%-100%present act. 3rd pl.
-~%-100%present act. 1st sing.
-~%100%imperf. act. 3rd sing.
-~%-100%imperf. act. 3rd pl.
-~%-100%imperf. act. 2nd pl.
-}
-
-::P8::[markdown]Identify this form of the verb _I send_: πέμπω {
-~%-100%present act. 3rd pl.
-~%-100%imperf. act. 3rd pl.
-~%-100%imperf. act. 3rd sing.
-~%100%present act. 1st sing.
-~%-100%present act. 2nd pl.
-}
-
-::P9::[markdown]Identify this form of the verb _I send_: ἔπεμπον {
-~%-100%present act. 2nd pl.
-~%-100%imperf. act. 3rd sing.
-~%-100%present act. 1st sing.
-~%100%imperf. act. 3rd pl.
-~%-100%present act. 3rd pl.
-}
-
-::P10::[markdown]Identify this form of the verb _I send_: ἐπέμπετε {
-~%-100%present act. infinitive
-~%-100%present act. 3rd pl.
-~%100%imperf. act. 2nd pl.
-~%-100%present act. 1st pl.
-~%-100%imperf. act. 3rd pl.
-}
-
-::P11::[markdown]Identify this form of the verb _I send_: ἔπεμπες {
-~%-100%present act. 2nd pl.
-~%-100%imperf. act. 1st sing.
-~%-100%imperf. act. 1st pl.
-~%100%imperf. act. 2nd sing.
-~%-100%imperf. act. 3rd pl.
-}
-
-::P12::[markdown]Identify this form of the verb _I send_: πέμπειν {
-~%100%present act. infinitive
-~%-100%imperf. act. 2nd pl.
-~%-100%present act. 1st sing.
-~%-100%imperf. act. 2nd sing.
-~%-100%imperf. act. 3rd pl.
-}
-
-::P13::[markdown]Identify this form of the verb _I send_: ἔπεμπες {
 ~%-100%present act. 2nd sing.
-~%-100%present act. 1st pl.
-~%100%imperf. act. 2nd sing.
-~%-100%present act. 3rd pl.
-~%-100%imperf. act. 1st pl.
 }
 
-::P14::[markdown]Identify this form of the verb _I send_: πέμπω {
-~%-100%present act. 3rd pl.
-~%-100%present act. infinitive
-~%-100%imperf. act. 3rd pl.
-~%-100%present act. 1st pl.
-~%100%present act. 1st sing.
-}
-
-::P15::[markdown]Identify this form of the verb _I send_: πέμπεις {
-~%-100%present act. infinitive
-~%-100%imperf. act. 1st sing.
-~%-100%imperf. act. 1st pl.
+::P3::[markdown]Identify this form of the verb _I send_: __πέμπεις__ {
 ~%100%present act. 2nd sing.
-~%-100%present act. 3rd sing.
-}
-
-::P16::[markdown]Identify this form of the verb _I send_: ἐπέμπομεν {
-~%100%imperf. act. 1st pl.
-~%-100%present act. infinitive
+~%-100%imperf. act. 2nd pl.
 ~%-100%present act. 1st pl.
-~%-100%imperf. act. 3rd sing.
-~%-100%present act. 3rd sing.
-}
-
-::P17::[markdown]Identify this form of the verb _I send_: ἐπέμπομεν {
-~%-100%imperf. act. 3rd sing.
-~%-100%imperf. act. 1st sing.
-~%-100%present act. 1st sing.
-~%-100%present act. infinitive
-~%100%imperf. act. 1st pl.
-}
-
-::P18::[markdown]Identify this form of the verb _I send_: πέμπετε {
 ~%-100%imperf. act. 3rd pl.
-~%-100%imperf. act. 2nd sing.
-~%100%present act. 2nd pl.
-~%-100%imperf. act. 2nd pl.
-~%-100%present act. 1st pl.
-}
-
-::P19::[markdown]Identify this form of the verb _I send_: πέμπειν {
-~%-100%present act. 3rd pl.
-~%100%present act. infinitive
-~%-100%imperf. act. 2nd pl.
-~%-100%imperf. act. 2nd sing.
-~%-100%present act. 2nd pl.
-}
-
-::P20::[markdown]Identify this form of the verb _I send_: ἐπέμπετε {
-~%100%imperf. act. 2nd pl.
-~%-100%imperf. act. 2nd sing.
-~%-100%present act. 1st pl.
-~%-100%imperf. act. 3rd sing.
-~%-100%present act. 2nd pl.
-}
-
-::P21::[markdown]Identify this form of the verb _I send_: πέμπουσι(ν) {
-~%-100%present act. infinitive
-~%-100%present act. 2nd pl.
-~%-100%imperf. act. 3rd pl.
-~%100%present act. 3rd pl.
-~%-100%present act. 1st pl.
-}
-
-::P22::[markdown]Identify this form of the verb _I send_: πέμπετε {
-~%-100%imperf. act. 2nd sing.
-~%-100%imperf. act. 2nd pl.
-~%-100%present act. 2nd sing.
 ~%-100%imperf. act. 1st pl.
-~%100%present act. 2nd pl.
 }
 
-::P23::[markdown]Identify this form of the verb _I send_: πέμπω {
-~%-100%imperf. act. 1st sing.
-~%-100%imperf. act. 2nd pl.
-~%-100%imperf. act. 1st pl.
+::P4::[markdown]Identify this form of the verb _I send_: __πέμπω__ {
+~%-100%present act. 2nd pl.
 ~%100%present act. 1st sing.
-~%-100%present act. 3rd pl.
-}
-
-::P24::[markdown]Identify this form of the verb _I send_: ἔπεμπες {
-~%-100%present act. 2nd pl.
-~%100%imperf. act. 2nd sing.
-~%-100%present act. infinitive
-~%-100%present act. 3rd sing.
-~%-100%imperf. act. 1st sing.
-}
-
-::P25::[markdown]Identify this form of the verb _I send_: ἐπέμπετε {
-~%-100%imperf. act. 1st pl.
-~%100%imperf. act. 2nd pl.
-~%-100%imperf. act. 2nd sing.
-~%-100%present act. 1st sing.
-~%-100%present act. 3rd sing.
-}
-
-::P26::[markdown]Identify this form of the verb _I send_: ἐπέμπετε {
-~%-100%present act. 2nd pl.
-~%-100%present act. 2nd sing.
-~%-100%imperf. act. 3rd sing.
-~%100%imperf. act. 2nd pl.
-~%-100%present act. 3rd sing.
-}
-
-::P27::[markdown]Identify this form of the verb _I send_: ἔπεμπον {
-~%-100%present act. 3rd sing.
-~%100%imperf. act. 3rd pl.
-~%-100%imperf. act. 3rd sing.
-~%-100%present act. 2nd sing.
-~%-100%imperf. act. 1st pl.
-}
-
-::P28::[markdown]Identify this form of the verb _I send_: ἔπεμπον {
-~%-100%imperf. act. 2nd pl.
-~%50%imperf. act. 3rd pl.
-~%-100%present act. 2nd sing.
-~%-100%present act. 1st sing.
-~%50%imperf. act. 1st sing.
-}
-
-::P29::[markdown]Identify this form of the verb _I send_: ἐπέμπομεν {
-~%-100%imperf. act. 2nd sing.
-~%-100%imperf. act. 1st sing.
 ~%-100%imperf. act. 3rd pl.
+~%-100%present act. infinitive
+~%-100%imperf. act. 2nd pl.
+}
+
+::P5::[markdown]Identify this form of the verb _I send_: __ἐπέμπετε__ {
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 1st sing.
+~%-100%imperf. act. 2nd sing.
+~%100%imperf. act. 2nd pl.
+~%-100%imperf. act. 3rd pl.
+}
+
+::P6::[markdown]Identify this form of the verb _I send_: __πέμπετε__ {
+~%-100%present act. 1st sing.
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 3rd sing.
 ~%-100%present act. 1st pl.
+~%100%present act. 2nd pl.
+}
+
+::P7::[markdown]Identify this form of the verb _I send_: __ἐπέμπομεν__ {
+~%-100%present act. 3rd pl.
+~%-100%imperf. act. 3rd sing.
 ~%100%imperf. act. 1st pl.
-}
-
-::P30::[markdown]Identify this form of the verb _I send_: ἔπεμπε {
-~%-100%imperf. act. 2nd sing.
+~%-100%present act. 2nd sing.
 ~%-100%present act. infinitive
-~%100%imperf. act. 3rd sing.
-~%-100%present act. 3rd sing.
-~%-100%imperf. act. 2nd pl.
 }
 
-::P31::[markdown]Identify this form of the verb _I send_: πέμπομεν {
+::P8::[markdown]Identify this form of the verb _I send_: __πέμπομεν__ {
+~%100%present act. 1st pl.
+~%-100%present act. 1st sing.
+~%-100%present act. infinitive
+~%-100%present act. 2nd pl.
+~%-100%imperf. act. 1st sing.
+}
+
+::P9::[markdown]Identify this form of the verb _I send_: __πέμπειν__ {
 ~%-100%imperf. act. 3rd sing.
-~%-100%imperf. act. 2nd pl.
-~%-100%present act. infinitive
-~%-100%imperf. act. 3rd pl.
-~%100%present act. 1st pl.
-}
-
-::P32::[markdown]Identify this form of the verb _I send_: ἔπεμπον {
-~%-100%present act. 3rd sing.
-~%50%imperf. act. 3rd pl.
-~%50%imperf. act. 1st sing.
-~%-100%imperf. act. 2nd sing.
-~%-100%present act. 2nd sing.
-}
-
-::P33::[markdown]Identify this form of the verb _I send_: πέμπετε {
 ~%-100%imperf. act. 1st sing.
-~%-100%present act. 3rd pl.
-~%-100%present act. 1st sing.
-~%100%present act. 2nd pl.
-~%-100%imperf. act. 2nd pl.
-}
-
-::P34::[markdown]Identify this form of the verb _I send_: πέμπουσι(ν) {
-~%-100%present act. 1st sing.
-~%100%present act. 3rd pl.
 ~%-100%imperf. act. 1st pl.
-~%-100%imperf. act. 1st sing.
-~%-100%imperf. act. 3rd pl.
-}
-
-::P35::[markdown]Identify this form of the verb _I send_: ἔπεμπες {
-~%-100%present act. 2nd pl.
-~%-100%present act. 1st pl.
-~%-100%present act. 3rd pl.
-~%100%imperf. act. 2nd sing.
-~%-100%imperf. act. 3rd pl.
-}
-
-::P36::[markdown]Identify this form of the verb _I send_: πέμπουσι(ν) {
-~%-100%imperf. act. 3rd pl.
-~%100%present act. 3rd pl.
-~%-100%present act. 3rd sing.
-~%-100%imperf. act. 2nd pl.
-~%-100%present act. 2nd pl.
-}
-
-::P37::[markdown]Identify this form of the verb _I send_: πέμπομεν {
-~%-100%present act. infinitive
-~%100%present act. 1st pl.
-~%-100%present act. 2nd sing.
-~%-100%present act. 2nd pl.
-~%-100%imperf. act. 2nd sing.
-}
-
-::P38::[markdown]Identify this form of the verb _I send_: πέμπω {
-~%100%present act. 1st sing.
-~%-100%present act. 1st pl.
-~%-100%present act. 3rd sing.
-~%-100%imperf. act. 2nd pl.
-~%-100%imperf. act. 3rd pl.
-}
-
-::P39::[markdown]Identify this form of the verb _I send_: ἔπεμπον {
-~%-100%present act. 2nd pl.
-~%-100%present act. 3rd sing.
-~%100%imperf. act. 3rd pl.
-~%-100%present act. 3rd pl.
-~%-100%present act. 1st pl.
-}
-
-::P40::[markdown]Identify this form of the verb _I send_: πέμπειν {
-~%-100%present act. 1st pl.
 ~%100%present act. infinitive
-~%-100%imperf. act. 3rd sing.
-~%-100%imperf. act. 2nd pl.
-~%-100%imperf. act. 1st pl.
-}
-
-::P41::[markdown]Identify this form of the verb _I send_: πέμπετε {
-~%-100%imperf. act. 2nd pl.
 ~%-100%present act. 2nd sing.
-~%-100%present act. 3rd pl.
-~%100%present act. 2nd pl.
-~%-100%imperf. act. 1st sing.
 }
 
-::P42::[markdown]Identify this form of the verb _I send_: πέμπεις {
-~%100%present act. 2nd sing.
-~%-100%present act. 1st sing.
-~%-100%present act. 3rd sing.
+::P10::[markdown]Identify this form of the verb _I send_: __ἐπέμπομεν__ {
 ~%-100%imperf. act. 3rd sing.
-~%-100%present act. infinitive
-}
-
-::P43::[markdown]Identify this form of the verb _I send_: πέμπειν {
-~%-100%imperf. act. 1st pl.
-~%-100%imperf. act. 3rd pl.
-~%100%present act. infinitive
-~%-100%imperf. act. 3rd sing.
-~%-100%present act. 1st sing.
-}
-
-::P44::[markdown]Identify this form of the verb _I send_: πέμπομεν {
-~%100%present act. 1st pl.
-~%-100%present act. infinitive
-~%-100%present act. 1st sing.
-~%-100%imperf. act. 3rd sing.
-~%-100%imperf. act. 1st pl.
-}
-
-::P45::[markdown]Identify this form of the verb _I send_: πέμπουσι(ν) {
-~%-100%imperf. act. 2nd pl.
 ~%-100%imperf. act. 2nd sing.
-~%-100%imperf. act. 1st sing.
-~%-100%present act. 3rd sing.
-~%100%present act. 3rd pl.
+~%100%imperf. act. 1st pl.
+~%-100%present act. 2nd pl.
+~%-100%present act. infinitive
 }
 
-::P46::[markdown]Identify this form of the verb _I send_: πέμπει {
+::P11::[markdown]Identify this form of the verb _I send_: __πέμπει__ {
+~%-100%present act. 2nd pl.
+~%-100%imperf. act. 1st sing.
+~%-100%present act. 1st pl.
 ~%100%present act. 3rd sing.
+~%-100%imperf. act. 3rd sing.
+}
+
+::P12::[markdown]Identify this form of the verb _I send_: __πέμπω__ {
+~%-100%imperf. act. 2nd sing.
+~%100%present act. 1st sing.
+~%-100%imperf. act. 1st pl.
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 1st pl.
+}
+
+::P13::[markdown]Identify this form of the verb _I send_: __ἔπεμπον__ {
+~%-100%imperf. act. 3rd sing.
+~%100%imperf. act. 1st sing.
+~%-100%present act. 1st sing.
+~%-100%imperf. act. 1st pl.
+~%-100%present act. 2nd pl.
+}
+
+::P14::[markdown]Identify this form of the verb _I send_: __ἐπέμπετε__ {
+~%-100%imperf. act. 3rd pl.
+~%-100%present act. 3rd pl.
+~%-100%imperf. act. 1st sing.
+~%-100%imperf. act. 3rd sing.
+~%100%imperf. act. 2nd pl.
+}
+
+::P15::[markdown]Identify this form of the verb _I send_: __πέμπει__ {
+~%-100%imperf. act. 3rd pl.
 ~%-100%imperf. act. 1st sing.
 ~%-100%present act. 1st pl.
+~%100%present act. 3rd sing.
+~%-100%present act. 2nd sing.
+}
+
+::P16::[markdown]Identify this form of the verb _I send_: __πέμπειν__ {
+~%-100%present act. 2nd pl.
+~%100%present act. infinitive
+~%-100%present act. 3rd pl.
+~%-100%imperf. act. 3rd sing.
+~%-100%imperf. act. 2nd sing.
+}
+
+::P17::[markdown]Identify this form of the verb _I send_: __ἐπέμπετε__ {
+~%-100%present act. 1st sing.
+~%-100%present act. infinitive
+~%-100%imperf. act. 3rd sing.
+~%100%imperf. act. 2nd pl.
+~%-100%present act. 1st pl.
+}
+
+::P18::[markdown]Identify this form of the verb _I send_: __ἔπεμπε__ {
+~%100%imperf. act. 3rd sing.
+~%-100%present act. infinitive
+~%-100%present act. 2nd pl.
+~%-100%present act. 1st sing.
+~%-100%imperf. act. 2nd sing.
+}
+
+::P19::[markdown]Identify this form of the verb _I send_: __ἔπεμπον__ {
+~%-100%imperf. act. 2nd pl.
+~%-100%present act. 1st sing.
+~%-100%present act. 3rd pl.
+~%-100%present act. 3rd sing.
+~%100%imperf. act. 3rd pl.
+}
+
+::P20::[markdown]Identify this form of the verb _I send_: __πέμπετε__ {
+~%-100%imperf. act. 2nd sing.
+~%-100%imperf. act. 3rd pl.
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 1st pl.
+~%100%present act. 2nd pl.
+}
+
+::P21::[markdown]Identify this form of the verb _I send_: __πέμπεις__ {
+~%-100%imperf. act. 3rd pl.
+~%-100%imperf. act. 2nd pl.
+~%-100%imperf. act. 1st pl.
+~%-100%present act. 3rd sing.
+~%100%present act. 2nd sing.
+}
+
+::P22::[markdown]Identify this form of the verb _I send_: __ἔπεμπες__ {
+~%-100%present act. 3rd sing.
+~%-100%imperf. act. 1st pl.
+~%-100%present act. 3rd pl.
+~%100%imperf. act. 2nd sing.
+~%-100%present act. 2nd pl.
+}
+
+::P23::[markdown]Identify this form of the verb _I send_: __ἔπεμπον__ {
 ~%-100%present act. 2nd pl.
 ~%-100%imperf. act. 2nd sing.
-}
-
-::P47::[markdown]Identify this form of the verb _I send_: ἔπεμπε {
-~%-100%imperf. act. 1st sing.
-~%-100%present act. 1st pl.
 ~%-100%present act. 3rd pl.
-~%100%imperf. act. 3rd sing.
 ~%-100%present act. 3rd sing.
+~%100%imperf. act. 3rd pl.
 }
 
-::P48::[markdown]Identify this form of the verb _I send_: ἔπεμπον {
+::P24::[markdown]Identify this form of the verb _I send_: __πέμπω__ {
+~%-100%present act. 1st pl.
+~%100%present act. 1st sing.
+~%-100%present act. 2nd sing.
+~%-100%imperf. act. 1st sing.
 ~%-100%imperf. act. 2nd sing.
-~%50%imperf. act. 3rd pl.
+}
+
+::P25::[markdown]Identify this form of the verb _I send_: __ἐπέμπομεν__ {
+~%-100%present act. 2nd pl.
+~%-100%imperf. act. 3rd sing.
+~%-100%imperf. act. 3rd pl.
+~%100%imperf. act. 1st pl.
+~%-100%imperf. act. 2nd sing.
+}
+
+::P26::[markdown]Identify this form of the verb _I send_: __ἔπεμπε__ {
+~%-100%imperf. act. 1st pl.
+~%-100%present act. 3rd sing.
+~%-100%present act. 1st sing.
+~%-100%present act. infinitive
+~%100%imperf. act. 3rd sing.
+}
+
+::P27::[markdown]Identify this form of the verb _I send_: __ἐπέμπομεν__ {
+~%100%imperf. act. 1st pl.
+~%-100%imperf. act. 2nd pl.
+~%-100%present act. 3rd pl.
+~%-100%present act. infinitive
+~%-100%present act. 2nd sing.
+}
+
+::P28::[markdown]Identify this form of the verb _I send_: __πέμπουσι(ν)__ {
+~%-100%present act. 3rd sing.
+~%-100%imperf. act. 2nd pl.
+~%100%present act. 3rd pl.
+~%-100%present act. infinitive
+~%-100%imperf. act. 1st pl.
+}
+
+::P29::[markdown]Identify this form of the verb _I send_: __πέμπειν__ {
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 2nd pl.
+~%-100%imperf. act. 3rd pl.
+~%100%present act. infinitive
+~%-100%imperf. act. 1st sing.
+}
+
+::P30::[markdown]Identify this form of the verb _I send_: __ἔπεμπον__ {
+~%-100%present act. infinitive
+~%-100%present act. 1st pl.
+~%100%imperf. act. 3rd pl.
+~%-100%present act. 1st sing.
+~%-100%imperf. act. 3rd sing.
+}
+
+::P31::[markdown]Identify this form of the verb _I send_: __ἔπεμπε__ {
+~%-100%imperf. act. 2nd pl.
+~%100%imperf. act. 3rd sing.
+~%-100%present act. 2nd sing.
+~%-100%imperf. act. 2nd sing.
+~%-100%imperf. act. 3rd pl.
+}
+
+::P32::[markdown]Identify this form of the verb _I send_: __πέμπουσι(ν)__ {
+~%100%present act. 3rd pl.
+~%-100%present act. 1st sing.
+~%-100%imperf. act. 3rd pl.
+~%-100%present act. 3rd sing.
+~%-100%present act. 2nd sing.
+}
+
+::P33::[markdown]Identify this form of the verb _I send_: __πέμπειν__ {
+~%-100%imperf. act. 1st pl.
+~%-100%present act. 2nd sing.
+~%-100%imperf. act. 3rd pl.
+~%100%present act. infinitive
+~%-100%imperf. act. 2nd sing.
+}
+
+::P34::[markdown]Identify this form of the verb _I send_: __πέμπομεν__ {
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 1st sing.
+~%-100%present act. 2nd sing.
+~%-100%present act. 2nd pl.
+~%100%present act. 1st pl.
+}
+
+::P35::[markdown]Identify this form of the verb _I send_: __πέμπετε__ {
+~%-100%present act. 1st pl.
+~%-100%imperf. act. 2nd sing.
+~%-100%present act. 3rd sing.
+~%-100%imperf. act. 3rd pl.
+~%100%present act. 2nd pl.
+}
+
+::P36::[markdown]Identify this form of the verb _I send_: __πέμπομεν__ {
+~%100%present act. 1st pl.
+~%-100%imperf. act. 1st sing.
+~%-100%imperf. act. 1st pl.
+~%-100%present act. infinitive
+~%-100%imperf. act. 2nd sing.
+}
+
+::P37::[markdown]Identify this form of the verb _I send_: __πέμπει__ {
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 1st sing.
+~%-100%imperf. act. 3rd pl.
+~%100%present act. 3rd sing.
+~%-100%present act. infinitive
+}
+
+::P38::[markdown]Identify this form of the verb _I send_: __ἔπεμπε__ {
+~%-100%present act. 1st sing.
+~%-100%imperf. act. 3rd pl.
+~%-100%present act. 2nd pl.
+~%100%imperf. act. 3rd sing.
+~%-100%present act. 2nd sing.
+}
+
+::P39::[markdown]Identify this form of the verb _I send_: __ἔπεμπες__ {
+~%100%imperf. act. 2nd sing.
+~%-100%present act. 2nd pl.
+~%-100%imperf. act. 2nd pl.
+~%-100%present act. 1st sing.
+~%-100%present act. 3rd pl.
+}
+
+::P40::[markdown]Identify this form of the verb _I send_: __ἔπεμπες__ {
+~%-100%present act. 2nd sing.
+~%-100%imperf. act. 1st pl.
+~%-100%present act. 1st pl.
+~%-100%imperf. act. 2nd pl.
+~%100%imperf. act. 2nd sing.
+}
+
+::P41::[markdown]Identify this form of the verb _I send_: __πέμπω__ {
+~%-100%imperf. act. 1st sing.
+~%-100%imperf. act. 2nd pl.
+~%100%present act. 1st sing.
+~%-100%present act. 3rd pl.
+~%-100%imperf. act. 3rd pl.
+}
+
+::P42::[markdown]Identify this form of the verb _I send_: __πέμπει__ {
+~%-100%present act. 2nd pl.
 ~%-100%imperf. act. 3rd sing.
 ~%-100%present act. 2nd sing.
-~%50%imperf. act. 1st sing.
+~%100%present act. 3rd sing.
+~%-100%imperf. act. 3rd pl.
 }
 
-::P49::[markdown]Identify this form of the verb _I send_: ἐπέμπομεν {
-~%100%imperf. act. 1st pl.
-~%-100%present act. 3rd pl.
+::P43::[markdown]Identify this form of the verb _I send_: __ἔπεμπον__ {
+~%-100%present act. 1st pl.
+~%-100%imperf. act. 1st pl.
+~%-100%present act. 3rd sing.
+~%-100%imperf. act. 2nd pl.
+~%100%imperf. act. 3rd pl.
+}
+
+::P44::[markdown]Identify this form of the verb _I send_: __ἔπεμπον__ {
+~%-100%present act. 1st sing.
 ~%-100%imperf. act. 2nd sing.
+~%-100%imperf. act. 2nd pl.
+~%-100%present act. 3rd sing.
+~%100%imperf. act. 1st sing.
+}
+
+::P45::[markdown]Identify this form of the verb _I send_: __πέμπουσι(ν)__ {
+~%-100%imperf. act. 1st pl.
+~%-100%imperf. act. 2nd sing.
+~%-100%present act. 1st sing.
+~%-100%present act. infinitive
+~%100%present act. 3rd pl.
+}
+
+::P46::[markdown]Identify this form of the verb _I send_: __πέμπετε__ {
+~%100%present act. 2nd pl.
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 1st pl.
+~%-100%present act. 3rd pl.
+~%-100%imperf. act. 2nd pl.
+}
+
+::P47::[markdown]Identify this form of the verb _I send_: __ἔπεμπες__ {
+~%-100%present act. 1st pl.
+~%-100%imperf. act. 2nd pl.
+~%-100%present act. 1st sing.
+~%-100%present act. 2nd sing.
+~%100%imperf. act. 2nd sing.
+}
+
+::P48::[markdown]Identify this form of the verb _I send_: __πέμπομεν__ {
+~%-100%present act. 3rd sing.
 ~%-100%present act. 2nd pl.
+~%-100%present act. 2nd sing.
+~%100%present act. 1st pl.
+~%-100%imperf. act. 1st sing.
+}
+
+::P49::[markdown]Identify this form of the verb _I send_: __ἔπεμπον__ {
+~%-100%present act. 3rd pl.
+~%100%imperf. act. 1st sing.
+~%-100%imperf. act. 3rd sing.
+~%-100%present act. 1st pl.
 ~%-100%present act. 3rd sing.
 }

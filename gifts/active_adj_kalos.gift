@@ -1,399 +1,399 @@
-::A0::[markdown]Pick the correct form(s) of the adjective _beautiful_: adjective, 3-terminations {
+::A0::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. gen. sing.__ {
+~%-100%καλαί
+~%100%καλῷ
+~%-100%καλοί
+~%-100%καλῆς
+~%-100%καλή
+}
+
+::A1::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. acc. pl.__ {
+~%-100%καλῶν
+~%-100%καλῆς
 ~%-100%καλοῦ
-~%100%καλός
-~%-100%καλοῖς
-~%-100%καλῷ
+~%100%καλή
+~%-100%καλάς
+}
+
+::A2::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. gen. pl.__ {
+~%-100%καλή
+~%100%καλοῖς
+~%-100%καλούς
+~%-100%καλῆς
+~%-100%καλῶν
+}
+
+::A3::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. nom. pl.__ {
+~%100%καλῶν
+~%-100%καλοῦ
+~%-100%καλός
 ~%-100%καλαῖς
+~%-100%καλῷ
 }
 
-::A1::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. gen. pl. {
-~%-100%καλῷ
+::A4::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. dat. pl.__ {
 ~%-100%καλῶν
-~%-100%καλαί
-~%-100%καλοῦ
-~%100%καλοῖς
-}
-
-::A2::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. dat. sing. {
-~%-100%καλά
-~%-100%καλοῦ
-~%-100%καλόν
-~%100%καλήν
 ~%-100%καλῷ
-}
-
-::A3::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. dat. pl. {
-~%-100%καλῷ
-~%-100%καλῶν
-~%-100%καλοῦ
+~%-100%καλοί
+~%-100%καλοῖς
 ~%100%καλούς
-~%-100%καλάς
 }
 
-::A4::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. gen. sing. {
-~%100%καλῇ
-~%-100%καλή
-~%-100%καλόν
-~%-100%καλοῖς
-~%-100%καλούς
-}
-
-::A5::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. gen. pl. {
-~%-100%καλοῖς
-~%-100%καλή
-~%-100%καλοί
-~%100%καλαῖς
-~%-100%καλόν
-}
-
-::A6::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. gen. sing. {
-~%-100%καλήν
-~%100%καλῷ
-~%-100%καλοί
-~%-100%καλάς
+::A5::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. dat. sing.__ {
 ~%-100%καλός
-}
-
-::A7::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. acc. pl. {
+~%-100%καλοῦ
 ~%-100%καλόν
-~%-100%καλῷ
-~%-100%καλῇ
-~%100%καλή
-~%-100%καλοῦ
-}
-
-::A8::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. dat. sing. {
-~%-100%καλῷ
-~%-100%καλός
-~%-100%καλή
-~%-100%καλάς
-~%100%καλόν
-}
-
-::A9::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. acc. pl. {
-~%-100%καλοῦ
-~%100%καλόν
-~%-100%καλάς
 ~%-100%καλοῖς
-~%-100%καλῶν
-}
-
-::A10::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. nom. sing. {
-~%-100%καλούς
-~%-100%καλοῖς
-~%-100%καλῶν
-~%100%καλοῦ
-~%-100%καλή
-}
-
-::A11::[markdown]Pick the correct form(s) of the adjective _beautiful_: adjective, 3-terminations {
-~%-100%καλῇ
-~%100%καλός
-~%-100%καλούς
-~%-100%καλή
-~%-100%καλῶν
-}
-
-::A12::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. acc. sing. {
-~%-100%καλῷ
-~%-100%καλήν
-~%100%καλαί
-~%-100%καλῶν
-~%-100%καλόν
-}
-
-::A13::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. dat. pl. {
-~%-100%καλῶν
-~%-100%καλῷ
-~%100%καλούς
-~%-100%καλή
-~%-100%καλός
-}
-
-::A14::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. acc. sing. {
-~%100%καλοί
-~%-100%καλῶν
-~%-100%καλάς
-~%-100%καλόν
-~%-100%καλοῦ
-}
-
-::A15::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. dat. sing. {
-~%-100%καλόν
-~%-100%καλάς
 ~%100%καλήν
-~%-100%καλῆς
+}
+
+::A6::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. dat. pl.__ {
 ~%-100%καλῶν
-}
-
-::A16::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. gen. sing. {
-~%-100%καλάς
+~%-100%καλούς
+~%-100%καλά
 ~%-100%καλοῖς
-~%100%καλῷ
-~%-100%καλαί
-~%-100%καλῇ
+~%100%καλάς
 }
 
-::A17::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. acc. pl. {
-~%100%καλή
-~%-100%καλοῦ
-~%-100%καλάς
-~%-100%καλόν
-~%-100%καλήν
-}
-
-::A18::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. acc. sing. {
-~%-100%καλῇ
-~%-100%καλόν
-~%100%καλαί
-~%-100%καλός
+::A7::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. acc. pl.__ {
 ~%-100%καλῷ
-}
-
-::A19::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. acc. pl. {
-~%-100%καλόν
-~%-100%καλήν
-~%-100%καλός
-~%-100%καλῆς
+~%-100%καλά
+~%-100%καλοῦ
+~%-100%καλαί
 ~%100%καλή
 }
 
-::A20::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. nom. sing. {
-~%100%καλοῦ
-~%-100%καλῷ
+::A8::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. gen. sing.__ {
 ~%-100%καλῶν
-~%-100%καλόν
-~%-100%καλήν
-}
-
-::A21::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. gen. pl. {
-~%-100%καλοῦ
-~%-100%καλόν
-~%-100%καλή
-~%-100%καλῶν
-~%100%καλοῖς
-}
-
-::A22::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. acc. sing. {
-~%100%καλά
-~%-100%καλῶν
-~%-100%καλόν
-~%-100%καλοῖς
-~%-100%καλή
-}
-
-::A23::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. nom. pl. {
-~%-100%καλοῖς
-~%-100%καλῷ
-~%-100%καλόν
-~%100%καλῶν
-~%-100%καλούς
-}
-
-::A24::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. nom. pl. {
-~%-100%καλῇ
-~%-100%καλά
-~%-100%καλαῖς
-~%100%καλῶν
-~%-100%καλή
-}
-
-::A25::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. dat. sing. {
-~%-100%καλή
-~%-100%καλοῖς
-~%100%καλόν
-~%-100%καλήν
-~%-100%καλούς
-}
-
-::A26::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. acc. sing. {
-~%-100%καλόν
-~%100%καλοί
-~%-100%καλούς
-~%-100%καλήν
-~%-100%καλῷ
-}
-
-::A27::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. dat. sing. {
-~%-100%καλήν
-~%-100%καλοῦ
-~%100%καλόν
-~%-100%καλῷ
-~%-100%καλή
-}
-
-::A28::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. nom. sing. {
-~%-100%καλή
-~%-100%καλῶν
-~%100%καλοῦ
-~%-100%καλούς
-~%-100%καλῷ
-}
-
-::A29::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. nom. pl. {
-~%-100%καλῇ
-~%-100%καλοῖς
-~%100%καλῶν
-~%-100%καλόν
-~%-100%καλή
-}
-
-::A30::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. nom. sing. {
-~%-100%καλοῖς
-~%100%καλοῦ
-~%-100%καλήν
-~%-100%καλῶν
-~%-100%καλή
-}
-
-::A31::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. dat. sing. {
-~%-100%καλοῦ
-~%100%καλόν
-~%-100%καλοῖς
-~%-100%καλῆς
-~%-100%καλῷ
-}
-
-::A32::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. dat. sing. {
-~%-100%καλή
-~%100%καλήν
-~%-100%καλῶν
-~%-100%καλόν
 ~%-100%καλοί
-}
-
-::A33::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. dat. pl. {
-~%-100%καλαί
-~%100%καλά
-~%-100%καλός
-~%-100%καλοί
-~%-100%καλή
-}
-
-::A34::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. nom. pl. {
-~%-100%καλῷ
-~%100%καλῶν
-~%-100%καλούς
-~%-100%καλοῖς
-~%-100%καλόν
-}
-
-::A35::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. nom. pl. {
-~%100%καλῶν
 ~%-100%καλῆς
-~%-100%καλός
-~%-100%καλήν
-~%-100%καλοί
-}
-
-::A36::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. nom. pl. {
-~%-100%καλῆς
-~%-100%καλόν
-~%-100%καλῷ
-~%100%καλῶν
-~%-100%καλοῖς
-}
-
-::A37::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. acc. pl. {
-~%-100%καλοῖς
-~%100%καλόν
-~%-100%καλά
-~%-100%καλήν
-~%-100%καλῶν
-}
-
-::A38::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. gen. sing. {
-~%-100%καλή
-~%-100%καλάς
 ~%100%καλῷ
-~%-100%καλόν
-~%-100%καλοί
+~%-100%καλή
 }
 
-::A39::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. gen. pl. {
-~%-100%καλόν
-~%-100%καλῶν
+::A9::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. nom. sing.__ {
+~%-100%καλάς
 ~%-100%καλῷ
-~%-100%καλούς
-~%100%καλοῖς
-}
-
-::A40::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. nom. sing. {
-~%-100%καλός
 ~%100%καλῆς
-~%-100%καλάς
 ~%-100%καλοῖς
-~%-100%καλῷ
-}
-
-::A41::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. gen. sing. {
 ~%-100%καλόν
+}
+
+::A10::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. gen. sing.__ {
+~%-100%καλός
+~%-100%καλή
 ~%-100%καλάς
-~%-100%καλῶν
-~%-100%καλοῦ
+~%-100%καλαῖς
 ~%100%καλῷ
 }
 
-::A42::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. gen. sing. {
-~%-100%καλός
-~%-100%καλή
-~%100%καλῷ
-~%-100%καλοῦ
-~%-100%καλῶν
-}
-
-::A43::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. gen. sing. {
-~%-100%καλῆς
-~%100%καλῇ
-~%-100%καλή
-~%-100%καλοῦ
+::A11::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. gen. pl.__ {
+~%-100%καλάς
 ~%-100%καλοῖς
-}
-
-::A44::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. gen. pl. {
-~%-100%καλοῦ
-~%-100%καλός
-~%100%καλοῖς
-~%-100%καλῇ
 ~%-100%καλά
+~%-100%καλός
+~%100%καλαῖς
 }
 
-::A45::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. dat. sing. {
-~%-100%καλοῖς
+::A12::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. nom. pl.__ {
+~%-100%καλῆς
+~%100%καλῶν
+~%-100%καλάς
 ~%-100%καλῷ
-~%100%καλόν
-~%-100%καλοῦ
-~%-100%καλή
+~%-100%καλόν
 }
 
-::A46::[markdown]Pick the correct form(s) of the adjective _beautiful_: neut. gen. pl. {
+::A13::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. nom. sing.__ {
+~%-100%καλαῖς
+~%-100%καλῷ
+~%100%καλοῦ
+~%-100%καλῇ
+~%-100%καλοῖς
+}
+
+::A14::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. gen. sing.__ {
+~%-100%καλόν
+~%-100%καλῶν
+~%100%καλῇ
+~%-100%καλῷ
+~%-100%καλῆς
+}
+
+::A15::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. nom. sing.__ {
+~%-100%καλοῖς
+~%-100%καλός
+~%-100%καλά
+~%100%καλοῦ
+~%-100%καλοί
+}
+
+::A16::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. acc. pl.__ {
 ~%-100%καλήν
 ~%-100%καλῷ
+~%-100%καλοῦ
+~%-100%καλούς
+~%100%καλόν
+}
+
+::A17::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. acc. sing.__ {
+~%-100%καλός
+~%-100%καλήν
+~%100%καλαί
+~%-100%καλοῦ
+~%-100%καλῇ
+}
+
+::A18::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. nom. sing.__ {
+~%100%καλῆς
+~%-100%καλαῖς
+~%-100%καλοῦ
+~%-100%καλῷ
 ~%-100%καλῶν
+}
+
+::A19::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. acc. sing.__ {
+~%-100%καλῶν
+~%100%καλά
+~%-100%καλοί
+~%-100%καλοῖς
+~%-100%καλῷ
+}
+
+::A20::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. dat. pl.__ {
+~%-100%καλαῖς
+~%-100%καλήν
+~%100%καλούς
+~%-100%καλῆς
+~%-100%καλοῖς
+}
+
+::A21::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. nom. sing.__ {
+~%100%καλοῦ
+~%-100%καλαῖς
+~%-100%καλά
+~%-100%καλοῖς
+~%-100%καλάς
+}
+
+::A22::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. nom. sing.__ {
+~%-100%καλαῖς
+~%-100%καλάς
+~%-100%καλήν
+~%-100%καλῇ
+~%100%καλῆς
+}
+
+::A23::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. gen. pl.__ {
+~%-100%καλαῖς
+~%-100%καλή
+~%-100%καλά
+~%-100%καλούς
 ~%100%καλοῖς
+}
+
+::A24::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. gen. pl.__ {
+~%-100%καλοῦ
+~%-100%καλῶν
+~%-100%καλάς
+~%-100%καλή
+~%100%καλοῖς
+}
+
+::A25::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. acc. sing.__ {
+~%-100%καλόν
+~%100%καλαί
+~%-100%καλῷ
+~%-100%καλάς
+~%-100%καλῶν
+}
+
+::A26::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. nom. pl.__ {
+~%-100%καλός
+~%-100%καλή
+~%100%καλῶν
+~%-100%καλῷ
+~%-100%καλάς
+}
+
+::A27::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. acc. pl.__ {
+~%-100%καλαί
+~%-100%καλούς
+~%-100%καλή
+~%100%καλόν
+~%-100%καλήν
+}
+
+::A28::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. dat. pl.__ {
+~%-100%καλοῖς
+~%-100%καλά
+~%-100%καλαῖς
+~%100%καλάς
+~%-100%καλούς
+}
+
+::A29::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. nom. pl.__ {
+~%-100%καλῷ
+~%-100%καλῆς
+~%-100%καλά
+~%100%καλῶν
 ~%-100%καλαί
 }
 
-::A47::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. dat. pl. {
+::A30::[markdown]Pick the correct form(s) of the adjective _beautiful_: __adjective, 3-terminations__ {
+~%100%καλός
+~%-100%καλήν
+~%-100%καλῇ
 ~%-100%καλοῦ
-~%-100%καλόν
-~%-100%καλοῖς
-~%100%καλάς
-~%-100%καλῷ
+~%-100%καλούς
 }
 
-::A48::[markdown]Pick the correct form(s) of the adjective _beautiful_: masc. acc. sing. {
-~%100%καλοί
+::A31::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. gen. sing.__ {
+~%-100%καλοῦ
 ~%-100%καλοῖς
-~%-100%καλῷ
 ~%-100%καλή
+~%-100%καλαί
+~%100%καλῷ
+}
+
+::A32::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. dat. sing.__ {
+~%-100%καλή
+~%-100%καλῶν
+~%-100%καλῷ
+~%100%καλήν
+~%-100%καλά
+}
+
+::A33::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. acc. sing.__ {
+~%-100%καλῇ
+~%-100%καλός
+~%-100%καλοῖς
+~%-100%καλῶν
+~%100%καλά
+}
+
+::A34::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. acc. sing.__ {
+~%-100%καλαί
+~%-100%καλά
+~%100%καλοί
+~%-100%καλοῦ
+~%-100%καλῆς
+}
+
+::A35::[markdown]Pick the correct form(s) of the adjective _beautiful_: __adjective, 3-terminations__ {
+~%-100%καλά
+~%-100%καλῷ
+~%-100%καλοί
+~%100%καλός
 ~%-100%καλῶν
 }
 
-::A49::[markdown]Pick the correct form(s) of the adjective _beautiful_: fem. dat. pl. {
-~%-100%καλῇ
-~%-100%καλῷ
+::A36::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. gen. pl.__ {
 ~%-100%καλοί
+~%-100%καλῇ
+~%-100%καλῆς
+~%100%καλοῖς
 ~%-100%καλόν
+}
+
+::A37::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. acc. pl.__ {
+~%-100%καλόν
+~%-100%καλοῦ
+~%-100%καλήν
+~%100%καλή
+~%-100%καλῆς
+}
+
+::A38::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. dat. pl.__ {
 ~%100%καλάς
+~%-100%καλοῖς
+~%-100%καλά
+~%-100%καλῷ
+~%-100%καλοῦ
+}
+
+::A39::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. dat. pl.__ {
+~%-100%καλήν
+~%100%καλούς
+~%-100%καλός
+~%-100%καλῶν
+~%-100%καλόν
+}
+
+::A40::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. gen. sing.__ {
+~%-100%καλοῦ
+~%100%καλῷ
+~%-100%καλάς
+~%-100%καλῶν
+~%-100%καλαῖς
+}
+
+::A41::[markdown]Pick the correct form(s) of the adjective _beautiful_: __adjective, 3-terminations__ {
+~%-100%καλαί
+~%-100%καλήν
+~%100%καλός
+~%-100%καλοῦ
+~%-100%καλόν
+}
+
+::A42::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. acc. sing.__ {
+~%-100%καλῆς
+~%-100%καλάς
+~%-100%καλοί
+~%-100%καλή
+~%100%καλά
+}
+
+::A43::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. nom. pl.__ {
+~%-100%καλός
+~%-100%καλή
+~%100%καλῶν
+~%-100%καλοί
+~%-100%καλά
+}
+
+::A44::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. nom. sing.__ {
+~%-100%καλῆς
+~%100%καλοῦ
+~%-100%καλήν
+~%-100%καλή
+~%-100%καλοῖς
+}
+
+::A45::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. gen. pl.__ {
+~%-100%καλῷ
+~%-100%καλοῦ
+~%-100%καλῆς
+~%-100%καλῶν
+~%100%καλαῖς
+}
+
+::A46::[markdown]Pick the correct form(s) of the adjective _beautiful_: __fem. dat. sing.__ {
+~%-100%καλαῖς
+~%-100%καλοῦ
+~%100%καλήν
+~%-100%καλῷ
+~%-100%καλῆς
+}
+
+::A47::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. dat. sing.__ {
+~%-100%καλαί
+~%-100%καλοί
+~%-100%καλά
+~%-100%καλῶν
+~%100%καλόν
+}
+
+::A48::[markdown]Pick the correct form(s) of the adjective _beautiful_: __neut. nom. pl.__ {
+~%-100%καλοῦ
+~%-100%καλοῖς
+~%-100%καλά
+~%-100%καλούς
+~%100%καλῶν
+}
+
+::A49::[markdown]Pick the correct form(s) of the adjective _beautiful_: __masc. acc. sing.__ {
+~%-100%καλῷ
+~%-100%καλόν
+~%-100%καλοῖς
+~%100%καλοί
+~%-100%καλήν
 }

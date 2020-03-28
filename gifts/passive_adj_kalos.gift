@@ -1,399 +1,399 @@
-::P0::[markdown]Identify this form of the adjective _beautiful_: καλῶν {
-~%-100%masc. gen. pl.
-~%100%masc. nom. pl.
-~%-100%masc. acc. pl.
-~%-100%adjective, 3-terminations
-~%-100%masc. dat. sing.
-}
-
-::P1::[markdown]Identify this form of the adjective _beautiful_: καλῷ {
-~%-100%masc. nom. pl.
-~%50%masc. gen. sing.
-~%-100%neut. gen. pl.
-~%50%neut. gen. sing.
-~%-100%masc. acc. pl.
-}
-
-::P2::[markdown]Identify this form of the adjective _beautiful_: καλά {
-~%-100%masc. acc. pl.
-~%-100%fem. dat. pl.
-~%-100%masc. gen. sing.
-~%-100%neut. nom. pl.
-~%100%neut. dat. pl.
-}
-
-::P3::[markdown]Identify this form of the adjective _beautiful_: καλαῖς {
-~%-100%masc. acc. pl.
-~%100%fem. gen. pl.
-~%-100%masc. nom. pl.
-~%-100%neut. dat. sing.
-~%-100%neut. nom. sing.
-}
-
-::P4::[markdown]Identify this form of the adjective _beautiful_: καλοί {
+::P0::[markdown]Identify this form of the adjective _beautiful_: __καλοῖς__ {
 ~%-100%fem. gen. sing.
-~%-100%masc. acc. pl.
-~%-100%neut. gen. pl.
-~%100%masc. acc. sing.
-~%-100%fem. acc. pl.
-}
-
-::P5::[markdown]Identify this form of the adjective _beautiful_: καλῷ {
-~%-100%masc. dat. pl.
-~%-100%fem. dat. sing.
-~%-100%masc. nom. pl.
-~%-100%neut. dat. sing.
-~%100%masc. gen. sing.
-}
-
-::P6::[markdown]Identify this form of the adjective _beautiful_: καλοῖς {
-~%-100%masc. nom. sing.
-~%100%masc. gen. pl.
-~%-100%masc. nom. pl.
-~%-100%adjective, 3-terminations
-~%-100%fem. gen. pl.
-}
-
-::P7::[markdown]Identify this form of the adjective _beautiful_: καλήν {
-~%-100%masc. dat. pl.
-~%-100%neut. dat. pl.
-~%-100%fem. gen. sing.
-~%-100%neut. dat. sing.
-~%100%fem. dat. sing.
-}
-
-::P8::[markdown]Identify this form of the adjective _beautiful_: καλῶν {
-~%-100%neut. dat. sing.
-~%-100%masc. gen. sing.
-~%-100%masc. nom. sing.
-~%100%neut. nom. pl.
-~%-100%masc. acc. pl.
-}
-
-::P9::[markdown]Identify this form of the adjective _beautiful_: καλός {
-~%-100%masc. gen. sing.
-~%-100%neut. gen. pl.
-~%-100%neut. nom. sing.
-~%-100%fem. dat. sing.
-~%100%adjective, 3-terminations
-}
-
-::P10::[markdown]Identify this form of the adjective _beautiful_: καλοῖς {
-~%50%neut. gen. pl.
-~%-100%masc. acc. pl.
-~%-100%fem. dat. pl.
-~%-100%fem. gen. sing.
-~%50%masc. gen. pl.
-}
-
-::P11::[markdown]Identify this form of the adjective _beautiful_: καλοῦ {
-~%-100%fem. dat. sing.
-~%-100%fem. gen. pl.
-~%100%masc. nom. sing.
-~%-100%neut. dat. pl.
-~%-100%neut. acc. sing.
-}
-
-::P12::[markdown]Identify this form of the adjective _beautiful_: καλήν {
-~%100%fem. dat. sing.
-~%-100%masc. gen. sing.
-~%-100%masc. nom. sing.
-~%-100%neut. nom. sing.
-~%-100%masc. acc. pl.
-}
-
-::P13::[markdown]Identify this form of the adjective _beautiful_: καλῷ {
 ~%-100%fem. nom. pl.
-~%-100%adjective, 3-terminations
-~%-100%neut. dat. pl.
-~%50%masc. gen. sing.
-~%50%neut. gen. sing.
+~%100%masc. gen. pl.
+~%-100%masc. dat. pl.
+~%-100%masc. acc. pl.
 }
 
-::P14::[markdown]Identify this form of the adjective _beautiful_: καλά {
+::P1::[markdown]Identify this form of the adjective _beautiful_: __καλά__ {
+~%-100%adjective, 3-terminations
+~%-100%masc. nom. pl.
 ~%50%neut. acc. sing.
+~%-100%fem. dat. sing.
 ~%50%neut. dat. pl.
-~%-100%fem. acc. pl.
-~%-100%neut. dat. sing.
-~%-100%fem. gen. pl.
 }
 
-::P15::[markdown]Identify this form of the adjective _beautiful_: καλῶν {
-~%100%masc. nom. pl.
-~%-100%adjective, 3-terminations
-~%-100%masc. gen. sing.
-~%-100%neut. dat. sing.
-~%-100%fem. acc. pl.
-}
-
-::P16::[markdown]Identify this form of the adjective _beautiful_: καλῶν {
-~%-100%adjective, 3-terminations
-~%-100%neut. gen. pl.
-~%-100%masc. gen. sing.
-~%100%fem. nom. pl.
-~%-100%masc. dat. pl.
-}
-
-::P17::[markdown]Identify this form of the adjective _beautiful_: καλάς {
-~%-100%neut. dat. sing.
-~%100%fem. dat. pl.
-~%-100%masc. nom. sing.
-~%-100%neut. nom. pl.
-~%-100%fem. dat. sing.
-}
-
-::P18::[markdown]Identify this form of the adjective _beautiful_: καλούς {
-~%-100%masc. nom. pl.
+::P2::[markdown]Identify this form of the adjective _beautiful_: __καλά__ {
 ~%-100%fem. gen. sing.
-~%-100%masc. gen. sing.
-~%-100%neut. dat. sing.
-~%100%masc. dat. pl.
-}
-
-::P19::[markdown]Identify this form of the adjective _beautiful_: καλῇ {
-~%-100%neut. gen. sing.
-~%100%fem. gen. sing.
-~%-100%fem. acc. pl.
-~%-100%fem. gen. pl.
-~%-100%neut. nom. sing.
-}
-
-::P20::[markdown]Identify this form of the adjective _beautiful_: καλοῦ {
-~%-100%masc. gen. sing.
-~%-100%neut. dat. pl.
-~%-100%masc. acc. pl.
-~%100%masc. nom. sing.
-~%-100%neut. gen. pl.
-}
-
-::P21::[markdown]Identify this form of the adjective _beautiful_: καλόν {
-~%-100%masc. gen. pl.
-~%50%masc. dat. sing.
-~%-100%masc. acc. sing.
-~%-100%masc. acc. pl.
-~%50%fem. acc. pl.
-}
-
-::P22::[markdown]Identify this form of the adjective _beautiful_: καλοῖς {
-~%-100%neut. dat. sing.
-~%50%neut. gen. pl.
-~%50%masc. gen. pl.
+~%-100%masc. dat. pl.
+~%-100%masc. nom. pl.
+~%100%neut. acc. sing.
 ~%-100%masc. nom. sing.
+}
+
+::P3::[markdown]Identify this form of the adjective _beautiful_: __καλάς__ {
+~%-100%masc. acc. pl.
+~%-100%fem. gen. sing.
+~%100%fem. dat. pl.
+~%-100%neut. acc. sing.
+~%-100%masc. acc. sing.
+}
+
+::P4::[markdown]Identify this form of the adjective _beautiful_: __καλούς__ {
+~%-100%fem. nom. pl.
+~%100%masc. dat. pl.
+~%-100%neut. gen. pl.
+~%-100%masc. acc. pl.
+~%-100%neut. gen. sing.
+}
+
+::P5::[markdown]Identify this form of the adjective _beautiful_: __καλῷ__ {
+~%-100%masc. nom. sing.
+~%-100%fem. gen. pl.
+~%100%masc. gen. sing.
+~%-100%fem. gen. sing.
+~%-100%fem. dat. pl.
+}
+
+::P6::[markdown]Identify this form of the adjective _beautiful_: __καλός__ {
+~%-100%masc. gen. pl.
+~%-100%neut. dat. pl.
+~%-100%fem. acc. pl.
+~%100%adjective, 3-terminations
 ~%-100%fem. dat. sing.
 }
 
-::P23::[markdown]Identify this form of the adjective _beautiful_: καλόν {
-~%50%masc. dat. sing.
-~%-100%fem. dat. pl.
-~%-100%masc. gen. sing.
-~%50%fem. acc. pl.
-~%-100%masc. dat. pl.
-}
-
-::P24::[markdown]Identify this form of the adjective _beautiful_: καλῶν {
-~%50%masc. nom. pl.
+::P7::[markdown]Identify this form of the adjective _beautiful_: __καλῶν__ {
 ~%-100%masc. nom. sing.
-~%-100%fem. acc. pl.
-~%50%fem. nom. pl.
-~%-100%neut. gen. sing.
+~%-100%fem. dat. pl.
+~%100%masc. nom. pl.
+~%-100%neut. dat. sing.
+~%-100%fem. dat. sing.
 }
 
-::P25::[markdown]Identify this form of the adjective _beautiful_: καλόν {
-~%100%masc. dat. sing.
-~%-100%masc. acc. sing.
-~%-100%masc. gen. pl.
-~%-100%neut. nom. sing.
-~%-100%adjective, 3-terminations
+::P8::[markdown]Identify this form of the adjective _beautiful_: __καλός__ {
+~%-100%fem. gen. pl.
+~%-100%fem. nom. pl.
+~%100%adjective, 3-terminations
+~%-100%masc. dat. pl.
+~%-100%fem. dat. pl.
 }
 
-::P26::[markdown]Identify this form of the adjective _beautiful_: καλοῦ {
-~%-100%masc. nom. pl.
-~%-100%neut. acc. sing.
+::P9::[markdown]Identify this form of the adjective _beautiful_: __καλοῦ__ {
 ~%-100%fem. gen. pl.
 ~%100%neut. nom. sing.
-~%-100%neut. gen. sing.
-}
-
-::P27::[markdown]Identify this form of the adjective _beautiful_: καλά {
-~%-100%neut. nom. pl.
-~%100%neut. acc. sing.
-~%-100%masc. dat. pl.
-~%-100%neut. dat. sing.
-~%-100%masc. gen. pl.
-}
-
-::P28::[markdown]Identify this form of the adjective _beautiful_: καλοῦ {
-~%-100%neut. gen. sing.
-~%100%masc. nom. sing.
+~%-100%fem. acc. pl.
 ~%-100%masc. acc. pl.
-~%-100%masc. gen. pl.
-~%-100%neut. gen. pl.
+~%-100%masc. nom. pl.
 }
 
-::P29::[markdown]Identify this form of the adjective _beautiful_: καλῇ {
-~%-100%neut. nom. sing.
+::P10::[markdown]Identify this form of the adjective _beautiful_: __καλῇ__ {
 ~%-100%adjective, 3-terminations
+~%-100%masc. acc. sing.
 ~%-100%masc. acc. pl.
-~%-100%neut. dat. pl.
+~%-100%neut. acc. sing.
 ~%100%fem. gen. sing.
 }
 
-::P30::[markdown]Identify this form of the adjective _beautiful_: καλούς {
-~%-100%fem. acc. pl.
-~%-100%masc. gen. pl.
-~%100%masc. dat. pl.
-~%-100%adjective, 3-terminations
-~%-100%fem. gen. sing.
-}
-
-::P31::[markdown]Identify this form of the adjective _beautiful_: καλόν {
-~%-100%masc. gen. sing.
-~%50%masc. dat. sing.
-~%50%fem. acc. pl.
-~%-100%neut. gen. pl.
-~%-100%masc. nom. pl.
-}
-
-::P32::[markdown]Identify this form of the adjective _beautiful_: καλοῦ {
-~%-100%masc. gen. pl.
-~%-100%masc. dat. sing.
-~%-100%neut. gen. pl.
-~%50%masc. nom. sing.
-~%50%neut. nom. sing.
-}
-
-::P33::[markdown]Identify this form of the adjective _beautiful_: καλόν {
-~%-100%neut. nom. pl.
-~%33.333%fem. acc. pl.
-~%-100%masc. nom. sing.
-~%33.333%neut. dat. sing.
-~%33.333%masc. dat. sing.
-}
-
-::P34::[markdown]Identify this form of the adjective _beautiful_: καλά {
-~%-100%masc. gen. sing.
-~%-100%neut. nom. pl.
-~%-100%fem. gen. pl.
-~%100%neut. dat. pl.
-~%-100%masc. dat. sing.
-}
-
-::P35::[markdown]Identify this form of the adjective _beautiful_: καλῷ {
-~%-100%masc. dat. sing.
+::P11::[markdown]Identify this form of the adjective _beautiful_: __καλῶν__ {
 ~%-100%neut. nom. sing.
-~%100%neut. gen. sing.
+~%-100%masc. gen. pl.
+~%100%masc. nom. pl.
+~%-100%neut. dat. sing.
+~%-100%neut. gen. sing.
+}
+
+::P12::[markdown]Identify this form of the adjective _beautiful_: __καλή__ {
+~%-100%fem. dat. pl.
+~%100%masc. acc. pl.
+~%-100%fem. nom. sing.
+~%-100%neut. dat. pl.
+~%-100%fem. acc. pl.
+}
+
+::P13::[markdown]Identify this form of the adjective _beautiful_: __καλά__ {
+~%-100%masc. gen. sing.
+~%100%neut. acc. sing.
+~%-100%masc. gen. pl.
+~%-100%masc. nom. sing.
+~%-100%adjective, 3-terminations
+}
+
+::P14::[markdown]Identify this form of the adjective _beautiful_: __καλῇ__ {
 ~%-100%neut. gen. pl.
+~%100%fem. gen. sing.
+~%-100%masc. dat. pl.
+~%-100%neut. acc. sing.
+~%-100%adjective, 3-terminations
+}
+
+::P15::[markdown]Identify this form of the adjective _beautiful_: __καλῶν__ {
+~%100%masc. nom. pl.
+~%-100%fem. acc. pl.
+~%-100%neut. gen. sing.
+~%-100%fem. dat. sing.
+~%-100%fem. dat. pl.
+}
+
+::P16::[markdown]Identify this form of the adjective _beautiful_: __καλόν__ {
+~%-100%masc. acc. sing.
+~%-100%fem. dat. sing.
+~%-100%neut. gen. pl.
+~%-100%masc. gen. pl.
+~%100%fem. acc. pl.
+}
+
+::P17::[markdown]Identify this form of the adjective _beautiful_: __καλήν__ {
+~%-100%neut. acc. sing.
+~%-100%masc. nom. pl.
+~%-100%neut. gen. sing.
+~%-100%masc. acc. pl.
+~%100%fem. dat. sing.
+}
+
+::P18::[markdown]Identify this form of the adjective _beautiful_: __καλῷ__ {
+~%-100%fem. acc. pl.
+~%100%neut. gen. sing.
+~%-100%masc. dat. pl.
+~%-100%masc. nom. pl.
+~%-100%neut. gen. pl.
+}
+
+::P19::[markdown]Identify this form of the adjective _beautiful_: __καλοῦ__ {
+~%-100%fem. dat. pl.
+~%-100%masc. acc. pl.
+~%100%masc. nom. sing.
+~%-100%masc. gen. pl.
+~%-100%neut. gen. sing.
+}
+
+::P20::[markdown]Identify this form of the adjective _beautiful_: __καλούς__ {
+~%-100%neut. gen. sing.
+~%-100%fem. gen. sing.
+~%100%masc. dat. pl.
+~%-100%fem. dat. sing.
+~%-100%neut. dat. sing.
+}
+
+::P21::[markdown]Identify this form of the adjective _beautiful_: __καλόν__ {
+~%-100%neut. acc. sing.
+~%-100%fem. gen. sing.
+~%50%neut. dat. sing.
+~%50%fem. acc. pl.
 ~%-100%masc. acc. pl.
 }
 
-::P36::[markdown]Identify this form of the adjective _beautiful_: καλῶν {
-~%-100%fem. gen. sing.
-~%-100%neut. dat. pl.
-~%-100%masc. dat. sing.
+::P22::[markdown]Identify this form of the adjective _beautiful_: __καλά__ {
+~%50%neut. dat. pl.
+~%-100%neut. gen. sing.
 ~%-100%masc. dat. pl.
-~%100%neut. nom. pl.
+~%-100%fem. dat. pl.
+~%50%neut. acc. sing.
 }
 
-::P37::[markdown]Identify this form of the adjective _beautiful_: καλή {
-~%-100%fem. acc. pl.
-~%-100%neut. nom. sing.
-~%-100%neut. dat. sing.
-~%-100%neut. dat. pl.
-~%100%masc. acc. pl.
-}
-
-::P38::[markdown]Identify this form of the adjective _beautiful_: καλή {
+::P23::[markdown]Identify this form of the adjective _beautiful_: __καλόν__ {
 ~%-100%masc. nom. pl.
-~%-100%masc. gen. sing.
-~%100%masc. acc. pl.
+~%-100%fem. dat. pl.
+~%100%neut. dat. sing.
+~%-100%neut. gen. pl.
+~%-100%masc. gen. pl.
+}
+
+::P24::[markdown]Identify this form of the adjective _beautiful_: __καλά__ {
+~%-100%fem. dat. pl.
+~%-100%masc. gen. pl.
+~%-100%masc. dat. pl.
+~%50%neut. acc. sing.
+~%50%neut. dat. pl.
+}
+
+::P25::[markdown]Identify this form of the adjective _beautiful_: __καλοί__ {
+~%-100%masc. nom. pl.
+~%100%masc. acc. sing.
 ~%-100%fem. gen. sing.
+~%-100%masc. gen. sing.
+~%-100%neut. nom. sing.
+}
+
+::P26::[markdown]Identify this form of the adjective _beautiful_: __καλῷ__ {
+~%-100%masc. acc. sing.
+~%-100%masc. nom. sing.
+~%-100%masc. gen. pl.
+~%100%neut. gen. sing.
+~%-100%masc. acc. pl.
+}
+
+::P27::[markdown]Identify this form of the adjective _beautiful_: __καλοῖς__ {
+~%-100%adjective, 3-terminations
+~%-100%fem. nom. pl.
+~%-100%fem. acc. sing.
+~%100%neut. gen. pl.
+~%-100%fem. gen. sing.
+}
+
+::P28::[markdown]Identify this form of the adjective _beautiful_: __καλός__ {
+~%-100%masc. gen. pl.
+~%-100%fem. dat. sing.
+~%-100%neut. nom. pl.
+~%100%adjective, 3-terminations
 ~%-100%masc. acc. sing.
 }
 
-::P39::[markdown]Identify this form of the adjective _beautiful_: καλόν {
-~%-100%neut. dat. pl.
-~%-100%fem. dat. pl.
+::P29::[markdown]Identify this form of the adjective _beautiful_: __καλαί__ {
 ~%-100%fem. gen. sing.
-~%100%masc. dat. sing.
+~%100%fem. acc. sing.
+~%-100%fem. nom. pl.
+~%-100%neut. gen. pl.
+~%-100%neut. gen. sing.
+}
+
+::P30::[markdown]Identify this form of the adjective _beautiful_: __καλῇ__ {
+~%-100%adjective, 3-terminations
+~%100%fem. gen. sing.
+~%-100%masc. nom. pl.
+~%-100%masc. acc. pl.
 ~%-100%fem. dat. sing.
 }
 
-::P40::[markdown]Identify this form of the adjective _beautiful_: καλήν {
-~%-100%neut. gen. pl.
-~%100%fem. dat. sing.
-~%-100%masc. dat. sing.
-~%-100%fem. gen. sing.
+::P31::[markdown]Identify this form of the adjective _beautiful_: __καλή__ {
+~%-100%neut. nom. sing.
+~%-100%neut. gen. sing.
+~%-100%masc. dat. pl.
+~%100%masc. acc. pl.
 ~%-100%neut. acc. sing.
 }
 
-::P41::[markdown]Identify this form of the adjective _beautiful_: καλούς {
-~%100%masc. dat. pl.
-~%-100%fem. dat. sing.
-~%-100%neut. dat. pl.
-~%-100%fem. acc. pl.
-~%-100%masc. gen. sing.
-}
-
-::P42::[markdown]Identify this form of the adjective _beautiful_: καλά {
-~%-100%fem. gen. sing.
-~%100%neut. acc. sing.
-~%-100%masc. dat. pl.
-~%-100%masc. gen. pl.
-~%-100%fem. dat. pl.
-}
-
-::P43::[markdown]Identify this form of the adjective _beautiful_: καλόν {
-~%50%neut. dat. sing.
-~%-100%masc. gen. pl.
-~%50%fem. acc. pl.
-~%-100%neut. gen. sing.
-~%-100%fem. gen. sing.
-}
-
-::P44::[markdown]Identify this form of the adjective _beautiful_: καλός {
-~%-100%neut. dat. sing.
-~%-100%masc. dat. sing.
-~%-100%neut. nom. pl.
-~%100%adjective, 3-terminations
-~%-100%masc. gen. pl.
-}
-
-::P45::[markdown]Identify this form of the adjective _beautiful_: καλή {
-~%-100%neut. nom. pl.
-~%100%masc. acc. pl.
-~%-100%masc. dat. pl.
-~%-100%masc. nom. pl.
-~%-100%masc. nom. sing.
-}
-
-::P46::[markdown]Identify this form of the adjective _beautiful_: καλόν {
-~%-100%fem. dat. sing.
-~%100%neut. dat. sing.
-~%-100%masc. nom. pl.
+::P32::[markdown]Identify this form of the adjective _beautiful_: __καλῆς__ {
+~%-100%fem. acc. sing.
+~%-100%masc. acc. sing.
 ~%-100%masc. acc. pl.
-~%-100%neut. dat. pl.
+~%-100%neut. nom. sing.
+~%100%fem. nom. sing.
 }
 
-::P47::[markdown]Identify this form of the adjective _beautiful_: καλαῖς {
+::P33::[markdown]Identify this form of the adjective _beautiful_: __καλήν__ {
+~%100%fem. dat. sing.
+~%-100%masc. dat. pl.
+~%-100%fem. gen. pl.
+~%-100%neut. nom. sing.
+~%-100%masc. gen. pl.
+}
+
+::P34::[markdown]Identify this form of the adjective _beautiful_: __καλήν__ {
+~%-100%fem. nom. sing.
+~%-100%neut. nom. pl.
+~%-100%fem. dat. pl.
+~%-100%adjective, 3-terminations
+~%100%fem. dat. sing.
+}
+
+::P35::[markdown]Identify this form of the adjective _beautiful_: __καλαί__ {
+~%-100%masc. gen. pl.
+~%-100%neut. nom. sing.
+~%-100%fem. dat. pl.
+~%-100%neut. gen. sing.
+~%100%fem. acc. sing.
+}
+
+::P36::[markdown]Identify this form of the adjective _beautiful_: __καλοῖς__ {
+~%-100%masc. acc. pl.
+~%-100%masc. nom. pl.
+~%50%masc. gen. pl.
+~%50%neut. gen. pl.
+~%-100%fem. dat. sing.
+}
+
+::P37::[markdown]Identify this form of the adjective _beautiful_: __καλῆς__ {
+~%-100%neut. acc. sing.
+~%-100%neut. gen. sing.
+~%-100%masc. gen. pl.
+~%100%fem. nom. sing.
+~%-100%masc. dat. pl.
+}
+
+::P38::[markdown]Identify this form of the adjective _beautiful_: __καλαῖς__ {
+~%-100%masc. gen. pl.
+~%-100%masc. gen. sing.
 ~%-100%fem. gen. sing.
 ~%100%fem. gen. pl.
-~%-100%adjective, 3-terminations
-~%-100%masc. gen. pl.
-~%-100%neut. gen. sing.
+~%-100%neut. dat. sing.
 }
 
-::P48::[markdown]Identify this form of the adjective _beautiful_: καλῶν {
-~%-100%fem. gen. pl.
-~%-100%masc. acc. sing.
-~%50%neut. nom. pl.
-~%-100%neut. gen. pl.
-~%50%masc. nom. pl.
-}
-
-::P49::[markdown]Identify this form of the adjective _beautiful_: καλοῖς {
+::P39::[markdown]Identify this form of the adjective _beautiful_: __καλόν__ {
+~%-100%masc. nom. pl.
+~%-100%masc. acc. pl.
 ~%-100%fem. gen. sing.
-~%-100%fem. acc. pl.
-~%-100%masc. dat. pl.
-~%100%neut. gen. pl.
+~%-100%adjective, 3-terminations
+~%100%fem. acc. pl.
+}
+
+::P40::[markdown]Identify this form of the adjective _beautiful_: __καλῶν__ {
+~%50%masc. nom. pl.
+~%50%neut. nom. pl.
+~%-100%neut. dat. sing.
+~%-100%fem. gen. sing.
+~%-100%neut. gen. pl.
+}
+
+::P41::[markdown]Identify this form of the adjective _beautiful_: __καλή__ {
+~%-100%fem. dat. sing.
+~%-100%masc. acc. sing.
+~%100%masc. acc. pl.
 ~%-100%neut. dat. pl.
+~%-100%neut. nom. sing.
+}
+
+::P42::[markdown]Identify this form of the adjective _beautiful_: __καλάς__ {
+~%-100%masc. acc. pl.
+~%-100%fem. dat. sing.
+~%-100%neut. nom. sing.
+~%-100%neut. nom. pl.
+~%100%fem. dat. pl.
+}
+
+::P43::[markdown]Identify this form of the adjective _beautiful_: __καλοί__ {
+~%-100%fem. dat. pl.
+~%-100%masc. dat. pl.
+~%-100%neut. nom. pl.
+~%-100%masc. nom. sing.
+~%100%masc. acc. sing.
+}
+
+::P44::[markdown]Identify this form of the adjective _beautiful_: __καλοῖς__ {
+~%100%masc. gen. pl.
+~%-100%masc. nom. sing.
+~%-100%fem. dat. sing.
+~%-100%masc. acc. pl.
+~%-100%masc. nom. pl.
+}
+
+::P45::[markdown]Identify this form of the adjective _beautiful_: __καλῶν__ {
+~%50%neut. nom. pl.
+~%50%masc. nom. pl.
+~%-100%masc. gen. sing.
+~%-100%fem. acc. pl.
+~%-100%neut. dat. sing.
+}
+
+::P46::[markdown]Identify this form of the adjective _beautiful_: __καλαῖς__ {
+~%-100%neut. nom. sing.
+~%-100%fem. dat. pl.
+~%-100%fem. dat. sing.
+~%-100%neut. dat. pl.
+~%100%fem. gen. pl.
+}
+
+::P47::[markdown]Identify this form of the adjective _beautiful_: __καλῶν__ {
+~%-100%fem. gen. sing.
+~%50%neut. nom. pl.
+~%-100%neut. dat. pl.
+~%50%fem. nom. pl.
+~%-100%masc. acc. sing.
+}
+
+::P48::[markdown]Identify this form of the adjective _beautiful_: __καλοῖς__ {
+~%-100%fem. dat. sing.
+~%100%masc. gen. pl.
+~%-100%masc. acc. pl.
+~%-100%neut. dat. pl.
+~%-100%neut. acc. sing.
+}
+
+::P49::[markdown]Identify this form of the adjective _beautiful_: __καλάς__ {
+~%-100%masc. gen. pl.
+~%-100%neut. dat. pl.
+~%-100%fem. nom. sing.
+~%100%fem. dat. pl.
+~%-100%neut. gen. pl.
 }

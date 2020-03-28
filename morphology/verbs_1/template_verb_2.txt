@@ -1,0 +1,35 @@
+// Commented lines and blank lines are disregarded.
+// Contents:
+//		Present active indicative
+//		Present active infinitive
+//		Imperfect active indicative
+//		Future active indicative
+//		Future active infinitive
+
+present act. indic. 1st sing.
+present act. indic. 2nd sing.
+present act. indic. 3rd sing.
+
+present act. indic. 1st pl.
+present act. indic. 2nd pl.
+present act. indic. 3rd pl.
+
+present act. infinitive
+
+imperf. act. indic. 1st sing.
+imperf. act. indic. 2nd sing.
+imperf. act. indic. 3rd sing.
+
+imperf. act. indic. 1st pl.
+imperf. act. indic. 2nd pl.
+imperf. act. indic. 3rd pl.
+
+fut. act. indic. 1st sing.
+fut. act. indic. 2nd sing.
+fut. act. indic. 3rd sing.
+
+fut. act. indic. 1st pl.
+fut. act. indic. 2nd pl.
+fut. act. indic. 3rd pl.
+
+fut. act. infinitive
