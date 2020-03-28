@@ -16,7 +16,7 @@ You can also work interactively with these notebooks on [mybinder.org](https://m
 
 **If you use MyBinder, and get a "Kernel not found" notice, choose "Scala 2.12." and click "Set Kernel".**
 
-Also, if [MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eumaeus/gifts_bearing_greek/master?filepath=index.ipynb) seems to give up at some point, close the browser window and open a new one… that often helps. I think MyBinder is getting a lot of load right now.
+Also, if [MyBinder](https://mybinder.org/v2/gh/Eumaeus/gifts_bearing_greek/master?filepath=index.ipynb) seems to give up at some point, close the browser window and open a new one… that often helps. I think MyBinder is getting a lot of load right now.
 
 If you have Jupyter Notebooks installed locally, with the Almond kernal, you can run this with:
 
