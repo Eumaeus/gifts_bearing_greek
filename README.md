@@ -18,7 +18,7 @@ You can also work interactively with these notebooks on [mybinder.org](https://m
 
 Also, if [MyBinder](https://mybinder.org/v2/gh/Eumaeus/gifts_bearing_greek/master?filepath=index.ipynb) seems to give up at some point, or thows an error, close the browser window and browse to the link a second time; that often helps. I think MyBinder is getting a lot of load right now.
 
-If you have Jupyter Notebooks installed locally, with the Almond kernal, you can run this with:
+If you have Jupyter Notebooks installed locally, with the Almond kernal, you can run this by `cd`ing to the root of its directory, and doing a:
 
     jupyter notebook
 
