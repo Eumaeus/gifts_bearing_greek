@@ -1,0 +1,13 @@
+nouns/template_noun1.txt
+the noun _sacrifice_
+
+θυσία
+θυσίας
+θυσίᾳ
+θυσίαν
+
+θυσίαι
+θυσιῶν
+θυσίαις
+θυσίας
+

@@ -1,0 +1,12 @@
+nouns/template_noun1.txt
+the noun _prayer_
+
+εὐχή
+εὐχῆς
+εὐχῇ
+εὐχήν
+
+εὐχαί
+εὐχῶν
+εὐχαῖς
+εὐχάς

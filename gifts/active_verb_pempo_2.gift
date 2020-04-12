@@ -1,399 +1,401 @@
-::A0::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st sing.__ {
-~%-100%ἐπέμπετε
-~%-100%πέμπομεν
-~%-100%πέμψει
+$CATEGORY: Greek/Morphology/pempo_pres_imp_fut_act
+
+::A0::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd pl.__ {
 ~%-100%πέμψω
-~%100%ἔπεμπον
-}
-
-::A1::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st pl.__ {
-~%100%ἐπέμπομεν
-~%-100%πέμπει
-~%-100%πέμψειν 
-~%-100%ἔπεμπον
-~%-100%ἔπεμπε
-}
-
-::A2::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 1st sing.__ {
-~%-100%ἔπεμπον
-~%-100%πέμψετε
-~%-100%πέμψει
-~%-100%πέμψειν 
-~%100%πέμπω
-}
-
-::A3::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd sing.__ {
-~%-100%πέμψει
-~%-100%πέμπετε
-~%-100%πέμπειν
-~%100%πέμπει
-~%-100%ἔπεμπον
-}
-
-::A4::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st pl.__ {
-~%100%ἐπέμπομεν
-~%-100%πέμψω
-~%-100%πέμψουσι(ν)
-~%-100%πέμπετε
-~%-100%πέμψειν 
-}
-
-::A5::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd pl.__ {
-~%-100%πέμπεις
-~%-100%πέμπετε
-~%100%ἔπεμπον
-~%-100%ἔπεμπε
-~%-100%πέμπομεν
-}
-
-::A6::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd pl.__ {
 ~%-100%πέμπω
-~%100%πέμπουσι(ν)
-~%-100%ἔπεμπες
-~%-100%πέμψεις
-~%-100%ἐπέμπομεν
-}
-
-::A7::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd pl.__ {
-~%-100%πέμπει
-~%100%πέμπετε
-~%-100%πέμψετε
-~%-100%πέμψω
-~%-100%πέμπουσι(ν)
-}
-
-::A8::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. infinitive__ {
-~%-100%πέμπειν
 ~%-100%πέμψεις
 ~%-100%πέμψουσι(ν)
-~%100%πέμψειν 
-~%-100%πέμπετε
-}
-
-::A9::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st pl.__ {
-~%100%πέμψομεν
-~%-100%πέμψουσι(ν)
-~%-100%ἔπεμπες
-~%-100%πέμπει
-~%-100%πέμψεις
-}
-
-::A10::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd sing.__ {
-~%-100%ἐπέμπετε
-~%-100%πέμψομεν
-~%100%πέμψεις
-~%-100%ἔπεμπε
-~%-100%πέμψειν 
-}
-
-::A11::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 1st pl.__ {
-~%-100%ἔπεμπον
-~%-100%πέμψει
-~%100%πέμπομεν
-~%-100%ἐπέμπετε
-~%-100%πέμψω
-}
-
-::A12::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd sing.__ {
-~%-100%πέμψειν 
-~%-100%πέμπειν
-~%-100%πέμπετε
-~%-100%ἐπέμπετε
-~%100%ἔπεμπες
-}
-
-::A13::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd sing.__ {
-~%100%πέμπει
-~%-100%ἔπεμπον
-~%-100%πέμψω
-~%-100%ἐπέμπομεν
-~%-100%πέμπετε
-}
-
-::A14::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd sing.__ {
-~%-100%πέμψειν 
-~%100%ἔπεμπε
-~%-100%πέμψω
-~%-100%πέμπουσι(ν)
-~%-100%πέμψει
-}
-
-::A15::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd pl.__ {
 ~%100%πέμψετε
-~%-100%πέμπειν
-~%-100%πέμψει
-~%-100%πέμψουσι(ν)
-~%-100%πέμπεις
 }
 
-::A16::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd pl.__ {
-~%-100%ἐπέμπετε
-~%-100%ἔπεμπε
+::A1::[markdown]Pick the correct form(s) of the verb _I send_: __present act. infinitive__ {
 ~%-100%ἔπεμπον
-~%-100%πέμπομεν
-~%100%πέμψουσι(ν)
-}
-
-::A17::[markdown]Pick the correct form(s) of the verb _I send_: __present act. infinitive__ {
-~%-100%πέμπεις
-~%-100%πέμψεις
-~%-100%πέμψουσι(ν)
+~%-100%πέμπω
 ~%100%πέμπειν
-~%-100%πέμπουσι(ν)
-}
-
-::A18::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd pl.__ {
-~%-100%πέμψειν 
-~%-100%ἐπέμπομεν
-~%-100%πέμψουσι(ν)
-~%-100%πέμπειν
-~%100%ἔπεμπον
-}
-
-::A19::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd sing.__ {
-~%-100%πέμψεις
 ~%-100%πέμψω
-~%100%ἔπεμπες
-~%-100%ἐπέμπετε
-~%-100%πέμψειν 
-}
-
-::A20::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd sing.__ {
-~%-100%ἔπεμπες
-~%-100%ἐπέμπομεν
-~%-100%πέμπουσι(ν)
-~%100%πέμπεις
 ~%-100%πέμπομεν
 }
 
-::A21::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd pl.__ {
-~%-100%πέμπεις
-~%-100%ἔπεμπες
-~%-100%ἔπεμπε
+::A2::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd pl.__ {
 ~%-100%πέμψετε
 ~%100%πέμψουσι(ν)
-}
-
-::A22::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd pl.__ {
-~%-100%πέμψει
-~%-100%πέμψω
-~%100%πέμψουσι(ν)
-~%-100%πέμπειν
-~%-100%πέμψομεν
-}
-
-::A23::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd sing.__ {
-~%-100%πέμπειν
-~%100%πέμψεις
-~%-100%πέμψω
+~%-100%ἐπέμπομεν
 ~%-100%πέμπετε
-~%-100%ἔπεμπες
-}
-
-::A24::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd pl.__ {
-~%-100%πέμψομεν
-~%-100%πέμπειν
-~%-100%πέμψουσι(ν)
-~%100%πέμπουσι(ν)
-~%-100%ἔπεμπε
-}
-
-::A25::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd pl.__ {
-~%100%ἐπέμπετε
 ~%-100%πέμπει
-~%-100%πέμπετε
+}
+
+::A3::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd pl.__ {
+~%-100%ἐπέμπετε
+~%-100%πέμψετε
+~%-100%πέμψομεν
 ~%-100%ἔπεμπον
-~%-100%πέμπειν
-}
-
-::A26::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd sing.__ {
-~%100%πέμψει
-~%-100%πέμπει
-~%-100%πέμψουσι(ν)
-~%-100%πέμπειν
-~%-100%πέμψω
-}
-
-::A27::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st pl.__ {
-~%-100%πέμπουσι(ν)
-~%-100%πέμψει
-~%-100%ἔπεμπον
-~%100%πέμψομεν
-~%-100%πέμπετε
-}
-
-::A28::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd pl.__ {
-~%-100%πέμψει
-~%-100%πέμπειν
-~%-100%πέμπεις
-~%-100%πέμψειν 
 ~%100%πέμπετε
 }
 
-::A29::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st pl.__ {
+::A4::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd pl.__ {
 ~%-100%πέμπομεν
-~%-100%πέμψετε
-~%-100%ἔπεμπον
-~%100%πέμψομεν
+~%-100%ἐπέμπομεν
+~%-100%πέμψουσι(ν)
+~%100%ἔπεμπον
 ~%-100%πέμψειν 
 }
 
-::A30::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 1st pl.__ {
+::A5::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st pl.__ {
+~%-100%πέμπουσι(ν)
+~%-100%πέμψετε
+~%-100%πέμπομεν
+~%100%πέμψομεν
+~%-100%πέμπειν
+}
+
+::A6::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd pl.__ {
+~%-100%πέμπειν
+~%-100%πέμπουσι(ν)
+~%100%πέμψουσι(ν)
+~%-100%πέμπει
 ~%-100%πέμψομεν
-~%-100%πέμψω
-~%100%πέμπομεν
+}
+
+::A7::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st pl.__ {
+~%100%ἐπέμπομεν
+~%-100%ἐπέμπετε
+~%-100%πέμπουσι(ν)
 ~%-100%ἔπεμπον
+~%-100%πέμπετε
+}
+
+::A8::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd sing.__ {
+~%-100%πέμψομεν
+~%-100%ἔπεμπον
+~%-100%πέμπεις
+~%-100%πέμπειν
+~%100%πέμψει
+}
+
+::A9::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd pl.__ {
+~%100%ἐπέμπετε
+~%-100%ἐπέμπομεν
+~%-100%ἔπεμπον
+~%-100%πέμψω
+~%-100%πέμψομεν
+}
+
+::A10::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 1st pl.__ {
+~%-100%πέμψω
+~%-100%ἐπέμπομεν
+~%100%πέμπομεν
+~%-100%πέμπειν
+~%-100%πέμψομεν
+}
+
+::A11::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd sing.__ {
+~%-100%πέμψομεν
+~%-100%πέμψετε
+~%-100%ἔπεμπες
+~%-100%πέμψεις
+~%100%πέμπει
+}
+
+::A12::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st sing.__ {
+~%-100%ἔπεμπες
+~%-100%πέμψετε
+~%-100%ἔπεμπον
+~%100%πέμψω
+~%-100%πέμψειν 
+}
+
+::A13::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st pl.__ {
+~%-100%πέμψουσι(ν)
+~%-100%ἔπεμπε
+~%-100%πέμπειν
+~%100%πέμψομεν
+~%-100%πέμψετε
+}
+
+::A14::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd pl.__ {
+~%100%πέμπετε
+~%-100%πέμψομεν
+~%-100%ἐπέμπομεν
+~%-100%πέμπειν
+~%-100%ἔπεμπες
+}
+
+::A15::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd sing.__ {
+~%-100%πέμψουσι(ν)
+~%-100%ἐπέμπετε
+~%100%ἔπεμπε
 ~%-100%πέμπω
+~%-100%ἐπέμπομεν
+}
+
+::A16::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 1st sing.__ {
+~%100%πέμπω
+~%-100%πέμπομεν
+~%-100%πέμπουσι(ν)
+~%-100%ἔπεμπε
+~%-100%ἐπέμπομεν
+}
+
+::A17::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd pl.__ {
+~%100%πέμπετε
+~%-100%πέμψουσι(ν)
+~%-100%ἔπεμπες
+~%-100%πέμψω
+~%-100%πέμπομεν
+}
+
+::A18::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd pl.__ {
+~%-100%πέμψομεν
+~%100%πέμπουσι(ν)
+~%-100%πέμπω
+~%-100%ἐπέμπετε
+~%-100%ἔπεμπον
+}
+
+::A19::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd sing.__ {
+~%-100%πέμψετε
+~%-100%πέμπουσι(ν)
+~%-100%ἔπεμπες
+~%-100%ἔπεμπον
+~%100%πέμψει
+}
+
+::A20::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd pl.__ {
+~%-100%ἔπεμπε
+~%100%πέμπουσι(ν)
+~%-100%πέμψειν 
+~%-100%πέμπω
+~%-100%πέμψετε
+}
+
+::A21::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd pl.__ {
+~%-100%πέμψομεν
+~%-100%πέμψετε
+~%-100%πέμπομεν
+~%100%ἔπεμπον
+~%-100%ἔπεμπες
+}
+
+::A22::[markdown]Pick the correct form(s) of the verb _I send_: __present act. infinitive__ {
+~%-100%πέμπετε
+~%-100%πέμπεις
+~%-100%πέμπομεν
+~%-100%ἐπέμπομεν
+~%100%πέμπειν
+}
+
+::A23::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd pl.__ {
+~%100%πέμψετε
+~%-100%ἔπεμπον
+~%-100%πέμπετε
+~%-100%πέμπομεν
+~%-100%πέμπεις
+}
+
+::A24::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd sing.__ {
+~%-100%ἐπέμπετε
+~%100%πέμπεις
+~%-100%πέμπει
+~%-100%πέμψετε
+~%-100%πέμψομεν
+}
+
+::A25::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd pl.__ {
+~%-100%ἔπεμπε
+~%100%ἔπεμπον
+~%-100%πέμψειν 
+~%-100%πέμψεις
+~%-100%πέμπω
+}
+
+::A26::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd pl.__ {
+~%100%ἐπέμπετε
+~%-100%πέμπειν
+~%-100%πέμπει
+~%-100%πέμπεις
+~%-100%ἔπεμπες
+}
+
+::A27::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st sing.__ {
+~%-100%πέμπεις
+~%-100%πέμπουσι(ν)
+~%100%ἔπεμπον
+~%-100%πέμψεις
+~%-100%πέμπω
+}
+
+::A28::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd pl.__ {
+~%-100%ἐπέμπετε
+~%-100%πέμψουσι(ν)
+~%-100%πέμψομεν
+~%-100%πέμπετε
+~%100%πέμψετε
+}
+
+::A29::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd pl.__ {
+~%-100%ἐπέμπομεν
+~%-100%πέμψειν 
+~%-100%πέμπεις
+~%100%πέμπουσι(ν)
+~%-100%πέμπειν
+}
+
+::A30::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd sing.__ {
+~%-100%πέμπω
+~%-100%ἔπεμπον
+~%-100%πέμπεις
+~%100%ἔπεμπες
+~%-100%ἔπεμπε
 }
 
 ::A31::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st sing.__ {
-~%100%πέμψω
+~%-100%ἐπέμπετε
+~%-100%ἔπεμπον
 ~%-100%πέμπειν
+~%100%πέμψω
+~%-100%πέμπουσι(ν)
+}
+
+::A32::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st pl.__ {
+~%100%πέμψομεν
+~%-100%πέμπειν
+~%-100%πέμψεις
+~%-100%ἔπεμπες
+~%-100%πέμψω
+}
+
+::A33::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. infinitive__ {
+~%-100%πέμπομεν
+~%100%πέμψειν 
+~%-100%πέμπειν
+~%-100%ἐπέμπετε
+~%-100%πέμπουσι(ν)
+}
+
+::A34::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st sing.__ {
+~%100%ἔπεμπον
+~%-100%ἔπεμπες
 ~%-100%πέμψει
-~%-100%πέμψομεν
-~%-100%πέμψεις
-}
-
-::A32::[markdown]Pick the correct form(s) of the verb _I send_: __present act. infinitive__ {
-~%100%πέμπειν
-~%-100%πέμψομεν
-~%-100%πέμπω
-~%-100%πέμψεις
-~%-100%πέμψουσι(ν)
-}
-
-::A33::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st sing.__ {
-~%100%πέμψω
-~%-100%πέμπειν
-~%-100%πέμψεις
-~%-100%ἔπεμπε
-~%-100%πέμπετε
-}
-
-::A34::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd sing.__ {
-~%100%πέμψεις
 ~%-100%πέμψομεν
 ~%-100%πέμψειν 
-~%-100%ἔπεμπε
-~%-100%ἔπεμπον
 }
 
-::A35::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd pl.__ {
-~%-100%ἔπεμπε
-~%100%πέμπετε
-~%-100%πέμψει
-~%-100%πέμπω
-~%-100%πέμπειν
-}
-
-::A36::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. infinitive__ {
-~%100%πέμψειν 
-~%-100%πέμπει
-~%-100%πέμψει
-~%-100%πέμπειν
-~%-100%ἔπεμπον
-}
-
-::A37::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd sing.__ {
-~%-100%ἔπεμπον
-~%-100%ἐπέμπετε
+::A35::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd sing.__ {
+~%-100%πέμπουσι(ν)
+~%-100%πέμψομεν
 ~%-100%πέμπομεν
 ~%100%πέμπεις
-~%-100%πέμψομεν
-}
-
-::A38::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd pl.__ {
-~%100%πέμψετε
-~%-100%πέμψω
-~%-100%πέμψομεν
-~%-100%ἔπεμπον
-~%-100%πέμπεις
-}
-
-::A39::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st sing.__ {
-~%-100%πέμψομεν
-~%-100%ἔπεμπε
-~%-100%πέμπειν
-~%100%ἔπεμπον
-~%-100%ἔπεμπες
-}
-
-::A40::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd pl.__ {
-~%-100%πέμπομεν
-~%-100%ἔπεμπε
-~%-100%πέμψειν 
-~%-100%ἔπεμπες
-~%100%ἐπέμπετε
-}
-
-::A41::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. infinitive__ {
-~%-100%πέμπουσι(ν)
-~%-100%πέμψουσι(ν)
-~%-100%πέμπω
-~%100%πέμψειν 
-~%-100%πέμψω
-}
-
-::A42::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd pl.__ {
-~%-100%πέμπειν
-~%-100%ἐπέμπετε
-~%-100%πέμπετε
-~%100%ἔπεμπον
-~%-100%πέμψετε
-}
-
-::A43::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd sing.__ {
-~%-100%πέμψειν 
-~%-100%ἔπεμπες
-~%100%ἔπεμπε
-~%-100%πέμπετε
-~%-100%ἔπεμπον
-}
-
-::A44::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd sing.__ {
-~%-100%ἐπέμπετε
-~%100%πέμψει
-~%-100%πέμψεις
-~%-100%πέμπεις
-~%-100%ἔπεμπον
-}
-
-::A45::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 1st sing.__ {
-~%100%πέμψω
-~%-100%πέμψει
-~%-100%ἔπεμπον
-~%-100%πέμπετε
 ~%-100%ἐπέμπομεν
 }
 
-::A46::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st pl.__ {
-~%-100%ἐπέμπετε
-~%-100%πέμπειν
-~%-100%ἔπεμπον
-~%-100%πέμψομεν
-~%100%ἐπέμπομεν
-}
-
-::A47::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd sing.__ {
-~%-100%ἔπεμπον
-~%100%ἔπεμπε
-~%-100%πέμπει
-~%-100%πέμψω
-~%-100%πέμψεις
-}
-
-::A48::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd sing.__ {
-~%-100%πέμπετε
-~%-100%πέμψεις
-~%100%πέμψει
-~%-100%πέμπω
-~%-100%πέμψειν 
-}
-
-::A49::[markdown]Pick the correct form(s) of the verb _I send_: __present act. infinitive__ {
-~%100%πέμπειν
-~%-100%πέμπει
-~%-100%πέμψει
+::A36::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 1st sing.__ {
 ~%-100%πέμπομεν
+~%-100%πέμπετε
+~%100%πέμπω
+~%-100%ἐπέμπομεν
+~%-100%πέμψομεν
+}
+
+::A37::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd sing.__ {
+~%-100%ἔπεμπες
+~%-100%πέμψομεν
+~%-100%ἐπέμπετε
+~%100%πέμψεις
+~%-100%πέμψετε
+}
+
+::A38::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st pl.__ {
+~%-100%πέμπετε
+~%100%ἐπέμπομεν
+~%-100%πέμπουσι(ν)
+~%-100%πέμπεις
+~%-100%πέμπει
+}
+
+::A39::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd sing.__ {
+~%-100%πέμψει
+~%-100%πέμπεις
+~%-100%πέμψετε
+~%100%ἔπεμπες
+~%-100%πέμπουσι(ν)
+}
+
+::A40::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd pl.__ {
+~%-100%πέμψετε
+~%-100%πέμψω
+~%-100%ἔπεμπες
+~%100%ἐπέμπετε
+~%-100%ἔπεμπε
+}
+
+::A41::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 3rd sing.__ {
+~%-100%πέμψεις
+~%-100%πέμψετε
+~%100%ἔπεμπε
+~%-100%πέμπειν
+~%-100%ἐπέμπετε
+}
+
+::A42::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 3rd sing.__ {
+~%-100%ἔπεμπον
+~%100%πέμψει
+~%-100%πέμπουσι(ν)
+~%-100%πέμπειν
+~%-100%ἐπέμπομεν
+}
+
+::A43::[markdown]Pick the correct form(s) of the verb _I send_: __fut. act. indic. 2nd sing.__ {
+~%-100%ἐπέμπομεν
+~%-100%πέμψει
+~%-100%πέμπει
+~%-100%πέμψομεν
+~%100%πέμψεις
+}
+
+::A44::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 1st pl.__ {
 ~%-100%πέμψειν 
+~%-100%πέμψετε
+~%-100%ἔπεμπον
+~%-100%ἔπεμπε
+~%100%πέμπομεν
+}
+
+::A45::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 1st pl.__ {
+~%-100%πέμπειν
+~%-100%πέμπετε
+~%-100%πέμψετε
+~%100%ἐπέμπομεν
+~%-100%πέμπω
+}
+
+::A46::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 3rd sing.__ {
+~%-100%πέμπεις
+~%-100%πέμπετε
+~%-100%ἐπέμπετε
+~%-100%πέμψει
+~%100%πέμπει
+}
+
+::A47::[markdown]Pick the correct form(s) of the verb _I send_: __present act. indic. 2nd sing.__ {
+~%100%πέμπεις
+~%-100%πέμψετε
+~%-100%πέμπειν
+~%-100%πέμψουσι(ν)
+~%-100%πέμπει
+}
+
+::A48::[markdown]Pick the correct form(s) of the verb _I send_: __present act. infinitive__ {
+~%-100%πέμπει
+~%-100%πέμπουσι(ν)
+~%-100%πέμψειν 
+~%-100%πέμψομεν
+~%100%πέμπειν
+}
+
+::A49::[markdown]Pick the correct form(s) of the verb _I send_: __imperf. act. indic. 2nd sing.__ {
+~%-100%ἐπέμπετε
+~%-100%ἔπεμπε
+~%-100%πέμπω
+~%-100%πέμπετε
+~%100%ἔπεμπες
 }

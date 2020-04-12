@@ -1,0 +1,144 @@
+// Comments and blank lines are disregarded.
+// For a non-existant form, use "-"
+// The first line is a relative path to a template
+verbs_1/template_verb_123amp.txt
+
+// The second line is a label, used in generating questions
+
+the verb _I stop; cease_
+
+
+// TYPE THE FORM _UNDER_ THE COMMENT-LABEL
+
+// present act. 1st sing.
+παύω
+// present act. 2nd sing.
+παύεις
+// present act. 3rd sing.
+παύει
+// present act. 1st pl.
+παύομεν
+// present act. 2nd pl.
+παύετε
+// present act. 3rd pl.
+παύουσι
+
+// present act. infinitive
+παύειν 
+
+// imperf. act. 1st sing.
+ἔπαυον
+// imperf. act. 2nd sing.
+ἔπαυες
+// imperf. act. 3rd sing.
+ἔπαυε
+
+// imperf. act. 1st pl.
+ἐπαύομεν
+// imperf. act. 2nd pl.
+ἐπαύετε
+// imperf. act. 3rd pl.
+ἔπαυον
+
+// present mid./pass. 1st sing.
+παύομαι
+// present mid./pass. 2nd sing.
+παύῃ
+// present mid./pass. 2nd sing.
+παύει
+// present mid./pass. 3rd sing.
+παύεται
+
+// present mid./pass. 1st pl.
+παυόμεθα
+// present mid./pass. 2nd pl.
+παύεσθε
+// present mid./pass. 3rd pl.
+παύονται
+
+// present mid./pass. infinitive
+παύεσθαι
+
+// imperf. mid./pass. 1st sing.
+ἐπαυόμην
+// imperf. mid./pass. 2nd sing.
+ἐπαύου
+// imperf. mid./pass. 3rd sing.
+ἐπαύετο
+
+// imperf. mid./pass. 1st pl.
+ἐπαυόμεθα
+// imperf. mid./pass. 2nd pl.
+ἐπαύεσθε
+// imperf. mid./pass. 3rd pl.
+ἐπαύοντο
+
+// fut. act. 1st sing.
+παύσω
+// fut. act. 2nd sing.
+παύσεισ
+// fut. act. 3rd sing.
+παύσει
+
+// fut. act. 1st pl.
+παύσομεν
+// fut. act. 2nd pl.
+παύσετε
+// fut. act. 3rd pl.
+παύσουσι
+
+// fut. act. infinitive
+παύσειν
+
+// fut. mid. 1st sing.
+παύσομαι
+// fut. mid. 2nd sing.
+παύσῃ
+// fut. mid. 2nd sing.
+παύσει
+// fut. mid. 3rd sing.
+παύσεται
+
+// fut. mid. 1st pl.
+παυσόμεθα
+// fut. mid. 2nd pl.
+παύσεσθε
+// fut. mid. 3rd pl.
+παύσονται
+
+// fut. mid. infinitive
+παύσεσθαι
+
+// aorist act. 1st sing.
+ἔπαυσα
+// aorist act. 2nd sing.
+ἔπαυσασ
+// aorist act. 3rd sing.
+ἔπαυσε
+
+// aorist act. 1st pl.
+ἐπαύσαμεν
+// aorist act. 2nd pl.
+ἐπαύσατε
+// aorist act. 3rd pl.
+ἔπαυσαν
+
+// aorist act. infinitive
+παῦσαι
+
+// aorist mid. 1st sing.
+ἐπαυσάμην
+// aorist mid. 2nd sing.
+ἐπαύσω
+// aorist mid. 3rd sing.
+ἐπαύσατο
+
+// aorist mid. 1st pl.
+ἐπαυσάμεθα
+// aorist mid. 2nd pl.
+ἐπαύσασθε
+// aorist mid. 3rd pl.
+ἐπαύσαντο
+
+// aorist mid. infinitive
+παύσασθαι

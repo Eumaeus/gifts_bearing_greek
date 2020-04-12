@@ -1,0 +1,91 @@
+// Commented lines and blank lines are disregarded.
+// Contents:
+//		Present active indicative
+//		Present active infinitive
+//		Imperfect active indicative
+//		Future active indicative
+//		Future active infinitive
+//		Future active indicative
+//		Future middle infinitive
+//		Aorist middle indicative
+//		Aorist active infinitive
+//		Aorist middle indicative
+//		Aorist middle infinitive
+
+present act. 1st sing.
+present act. 2nd sing.
+present act. 3rd sing.
+
+present act. 1st pl.
+present act. 2nd pl.
+present act. 3rd pl.
+
+present act. infinitive
+
+imperf. act. 1st sing.
+imperf. act. 2nd sing.
+imperf. act. 3rd sing.
+
+imperf. act. 1st pl.
+imperf. act. 2nd pl.
+imperf. act. 3rd pl.
+
+present mid./pass. 1st sing.
+present mid./pass. 2nd sing.
+present mid./pass. 2nd sing.
+present mid./pass. 3rd sing.
+
+present mid./pass. 1st pl.
+present mid./pass. 2nd pl.
+present mid./pass. 3rd pl.
+
+present mid./pass. infinitive
+
+imperf. mid./pass. 1st sing.
+imperf. mid./pass. 2nd sing.
+imperf. mid./pass. 3rd sing.
+
+imperf. mid./pass. 1st pl.
+imperf. mid./pass. 2nd pl.
+imperf. mid./pass. 3rd pl.
+
+fut. act. 1st sing.
+fut. act. 2nd sing.
+fut. act. 3rd sing.
+
+fut. act. 1st pl.
+fut. act. 2nd pl.
+fut. act. 3rd pl.
+
+fut. act. infinitive
+
+fut. mid. 1st sing.
+fut. mid. 2nd sing.
+fut. mid. 2nd sing.
+fut. mid. 3rd sing.
+
+fut. mid. 1st pl.
+fut. mid. 2nd pl.
+fut. mid. 3rd pl.
+
+fut. mid. infinitive
+
+aorist act. 1st sing.
+aorist act. 2nd sing.
+aorist act. 3rd sing.
+
+aorist act. 1st pl.
+aorist act. 2nd pl.
+aorist act. 3rd pl.
+
+aorist act. infinitive
+
+aorist mid. 1st sing.
+aorist mid. 2nd sing.
+aorist mid. 3rd sing.
+
+aorist mid. 1st pl.
+aorist mid. 2nd pl.
+aorist mid. 3rd pl.
+
+aorist mid. infinitive

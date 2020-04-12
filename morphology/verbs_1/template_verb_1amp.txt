@@ -1,0 +1,42 @@
+// Commented lines and blank lines are disregarded.
+// Contents:
+//		Present active indicative
+//		Present active infinitive
+//		Imperfect active indicative
+
+present act. 1st sing.
+present act. 2nd sing.
+present act. 3rd sing.
+
+present act. 1st pl.
+present act. 2nd pl.
+present act. 3rd pl.
+
+present act. infinitive
+
+imperf. act. 1st sing.
+imperf. act. 2nd sing.
+imperf. act. 3rd sing.
+
+imperf. act. 1st pl.
+imperf. act. 2nd pl.
+imperf. act. 3rd pl.
+
+present mid./pass. 1st sing.
+present mid./pass. 2nd sing.
+present mid./pass. 2nd sing.
+present mid./pass. 3rd sing.
+
+present mid./pass. 1st pl.
+present mid./pass. 2nd pl.
+present mid./pass. 3rd pl.
+
+present mid./pass. infinitive
+
+imperf. mid./pass. 1st sing.
+imperf. mid./pass. 2nd sing.
+imperf. mid./pass. 3rd sing.
+
+imperf. mid./pass. 1st pl.
+imperf. mid./pass. 2nd pl.
+imperf. mid./pass. 3rd pl.

@@ -1,0 +1,12 @@
+nouns/template_noun1.txt
+the noun _plague_
+
+νόσος
+νόσου
+νόσῳ
+νόσον
+
+νόσοι
+νόσων
+νόσοις
+νόσους

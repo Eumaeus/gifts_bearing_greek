@@ -1,399 +1,401 @@
-::A0::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. acc. sing.__ {
-~%-100%οἱ
-~%-100%αἱ
-~%-100%τῶν
-~%100%τά
-~%-100%τό
-}
+$CATEGORY: Greek/Morphology/definite_article
 
-::A1::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. acc. sing.__ {
-~%100%αἱ
-~%-100%τοῖς
-~%-100%ἡ
-~%-100%τῷ
-~%-100%τοῦ
-}
-
-::A2::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. nom. pl.__ {
-~%-100%τῇ
-~%-100%τοῦ
-~%100%τῶν
-~%-100%τάς
-~%-100%ταῖς
-}
-
-::A3::[markdown]Pick the correct form(s) of the definite article _the_ : __adjective, 3-terminations__ {
-~%-100%τά
-~%-100%ταῖς
-~%-100%τοῦ
-~%100%ὁ
-~%-100%τῆς
-}
-
-::A4::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. acc. sing.__ {
-~%-100%τῶν
-~%-100%τοῖς
-~%-100%τῷ
-~%-100%τούς
-~%100%τά
-}
-
-::A5::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. gen. sing.__ {
-~%-100%τό
-~%-100%τῶν
-~%100%τῷ
+::A0::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. nom. pl.__ {
 ~%-100%τόν
-~%-100%τοῖς
-}
-
-::A6::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. pl.__ {
-~%-100%τό
-~%-100%τῆς
-~%-100%τῷ
-~%-100%οἱ
-~%100%τούς
-}
-
-::A7::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. acc. sing.__ {
-~%-100%τήν
-~%-100%τῶν
-~%-100%τοῖς
 ~%100%αἱ
-~%-100%τάς
-}
-
-::A8::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. acc. pl.__ {
-~%-100%τῶν
-~%-100%τῷ
-~%100%τό
+~%-100%τοῖς
 ~%-100%ὁ
-~%-100%οἱ
+~%-100%τοῦ
 }
 
-::A9::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. nom. sing.__ {
-~%-100%τῷ
+::A1::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. sing.__ {
 ~%100%τοῦ
 ~%-100%τῆς
-~%-100%οἱ
-~%-100%ταῖς
-}
-
-::A10::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. sing.__ {
-~%100%τόν
 ~%-100%ὁ
-~%-100%τοῦ
-~%-100%τῇ
-~%-100%τῷ
-}
-
-::A11::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. gen. pl.__ {
-~%-100%τῇ
-~%-100%ἡ
-~%-100%αἱ
-~%-100%τῷ
-~%100%τοῖς
-}
-
-::A12::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. nom. pl.__ {
-~%-100%οἱ
-~%-100%τό
-~%-100%τοῖς
-~%-100%τῇ
-~%100%τῶν
-}
-
-::A13::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. nom. pl.__ {
-~%-100%τό
-~%-100%τοῦ
-~%-100%τούς
-~%-100%ὁ
-~%100%τῶν
-}
-
-::A14::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. pl.__ {
-~%-100%τό
 ~%-100%τῶν
-~%-100%τῷ
-~%100%ἡ
-~%-100%τῇ
+~%-100%τό
 }
 
-::A15::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. dat. sing.__ {
+::A2::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. nom. sing.__ {
+~%-100%τῆς
+~%-100%τῶν
+~%100%ὁ
+~%-100%ἡ
+~%-100%τῷ
+}
+
+::A3::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. acc. sing.__ {
+~%-100%τῶν
+~%-100%τῆς
+~%-100%τοῖς
+~%-100%τάς
+~%100%τό
+}
+
+::A4::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. acc. sing.__ {
 ~%-100%τῇ
 ~%-100%τῷ
 ~%100%τήν
-~%-100%τούς
-~%-100%ὁ
-}
-
-::A16::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. pl.__ {
-~%-100%τῇ
-~%-100%ἡ
 ~%-100%τῶν
-~%-100%τοῦ
-~%100%τούς
+~%-100%τά
 }
 
-::A17::[markdown]Pick the correct form(s) of the definite article _the_ : __adjective, 3-terminations__ {
-~%100%ὁ
-~%-100%οἱ
-~%-100%τά
-~%-100%τήν
+::A5::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. nom. sing.__ {
 ~%-100%ἡ
-}
-
-::A18::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. nom. sing.__ {
+~%-100%τήν
 ~%-100%τά
-~%-100%ὁ
-~%100%τοῦ
 ~%-100%τόν
+~%100%ὁ
+}
+
+::A6::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. dat. pl.__ {
+~%-100%τό
+~%-100%τῆς
+~%100%τοῖς
+~%-100%τούς
+~%-100%τῶν
+}
+
+::A7::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. sing.__ {
+~%100%τῆς
+~%-100%τό
+~%-100%τῷ
+~%-100%τοῖς
+~%-100%τά
+}
+
+::A8::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. pl.__ {
+~%-100%τό
+~%-100%τοῦ
+~%-100%τῷ
+~%100%τούς
+~%-100%τοῖς
+}
+
+::A9::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. gen. pl.__ {
+~%100%τῶν
+~%-100%τοῦ
+~%-100%τό
+~%-100%τά
+~%-100%τῆς
+}
+
+::A10::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. pl.__ {
+~%-100%τοῦ
+~%100%τοῖς
+~%-100%τῆς
+~%-100%ἡ
+~%-100%τόν
+}
+
+::A11::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. dat. pl.__ {
+~%-100%τό
+~%100%τοῖς
+~%-100%τῶν
+~%-100%τήν
+~%-100%τῷ
+}
+
+::A12::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. nom. pl.__ {
+~%-100%τῶν
+~%-100%τό
+~%-100%τῆς
+~%100%τά
+~%-100%τῇ
+}
+
+::A13::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. acc. sing.__ {
+~%100%τό
+~%-100%τοῦ
+~%-100%τοῖς
+~%-100%ταῖς
+~%-100%τῆς
+}
+
+::A14::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. nom. sing.__ {
+~%-100%τά
+~%-100%τῷ
+~%-100%τούς
+~%-100%αἱ
+~%100%ἡ
+}
+
+::A15::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. nom. pl.__ {
+~%100%τά
+~%-100%τῆς
+~%-100%τῶν
+~%-100%αἱ
+~%-100%τούς
+}
+
+::A16::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. sing.__ {
+~%100%τῷ
+~%-100%τῶν
+~%-100%τοῖς
+~%-100%ἡ
+~%-100%τά
+}
+
+::A17::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. sing.__ {
+~%-100%τῷ
+~%100%τῆς
+~%-100%τά
+~%-100%τοῖς
 ~%-100%τό
 }
 
-::A19::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. pl.__ {
-~%-100%τῇ
-~%100%ἡ
-~%-100%τῷ
-~%-100%τῶν
-~%-100%οἱ
-}
-
-::A20::[markdown]Pick the correct form(s) of the definite article _the_ : __adjective, 3-terminations__ {
-~%-100%τοῖς
+::A18::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. dat. sing.__ {
+~%-100%τόν
+~%-100%ὁ
 ~%-100%τά
-~%100%ὁ
-~%-100%αἱ
-~%-100%τῇ
-}
-
-::A21::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. gen. pl.__ {
-~%-100%τούς
-~%-100%τῷ
-~%-100%τῶν
-~%100%τοῖς
-~%-100%τά
-}
-
-::A22::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. sing.__ {
-~%-100%τοῖς
-~%-100%τήν
-~%100%οἱ
-~%-100%τάς
+~%100%τῷ
 ~%-100%τοῦ
 }
 
-::A23::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. nom. sing.__ {
-~%100%τοῦ
-~%-100%τῶν
-~%-100%τό
+::A19::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. acc. pl.__ {
+~%100%τά
+~%-100%τῷ
 ~%-100%τούς
-~%-100%τά
+~%-100%τοῦ
+~%-100%τῶν
 }
 
-::A24::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. nom. sing.__ {
+::A20::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. sing.__ {
+~%100%τόν
+~%-100%τούς
 ~%-100%τά
+~%-100%τῶν
+~%-100%ἡ
+}
+
+::A21::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. sing.__ {
+~%-100%τῷ
+~%-100%τοῦ
 ~%100%τῆς
+~%-100%τῶν
+~%-100%τούς
+}
+
+::A22::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. pl.__ {
+~%-100%τῷ
 ~%-100%τῇ
 ~%-100%τό
+~%100%τῶν
+~%-100%τοῖς
+}
+
+::A23::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. sing.__ {
+~%-100%τῇ
+~%100%τόν
+~%-100%τῆς
 ~%-100%ὁ
+~%-100%τοῦ
+}
+
+::A24::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. pl.__ {
+~%-100%τό
+~%-100%τοῖς
+~%100%τῶν
+~%-100%τῷ
+~%-100%τῆς
 }
 
 ::A25::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. acc. pl.__ {
+~%-100%τῷ
 ~%-100%ἡ
+~%-100%τήν
+~%-100%τό
+~%100%τάς
+}
+
+::A26::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. gen. pl.__ {
+~%-100%τό
+~%100%τῶν
+~%-100%ὁ
+~%-100%τῷ
+~%-100%ἡ
+}
+
+::A27::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. pl.__ {
 ~%-100%τῶν
+~%-100%ὁ
+~%100%τούς
+~%-100%τῷ
+~%-100%τοῖς
+}
+
+::A28::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. pl.__ {
+~%-100%τῷ
+~%100%τούς
+~%-100%ταῖς
+~%-100%τό
+~%-100%τοῖς
+}
+
+::A29::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. gen. sing.__ {
+~%-100%τήν
+~%100%τοῦ
 ~%-100%τάς
+~%-100%τό
+~%-100%τῷ
+}
+
+::A30::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. acc. sing.__ {
+~%-100%τούς
+~%-100%τῷ
 ~%-100%τοῦ
+~%-100%τῇ
 ~%100%τό
 }
 
-::A26::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. nom. pl.__ {
+::A31::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. nom. sing.__ {
+~%-100%τοῖς
+~%100%τό
+~%-100%τοῦ
 ~%-100%τούς
-~%-100%τήν
-~%-100%τῆς
-~%-100%τῷ
-~%100%τῶν
+~%-100%ἡ
 }
 
-::A27::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. sing.__ {
-~%-100%τοῖς
-~%-100%τῶν
+::A32::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. sing.__ {
+~%-100%αἱ
 ~%100%τῷ
-~%-100%ταῖς
 ~%-100%τῇ
-}
-
-::A28::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. nom. pl.__ {
-~%-100%ὁ
-~%100%τῶν
-~%-100%τοῖς
-~%-100%τοῦ
-~%-100%ταῖς
-}
-
-::A29::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. nom. sing.__ {
-~%-100%τά
-~%-100%τῇ
-~%-100%τῶν
-~%100%τῆς
-~%-100%οἱ
-}
-
-::A30::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. sing.__ {
-~%100%τῇ
-~%-100%τάς
-~%-100%τοῦ
-~%-100%ὁ
-~%-100%τά
-}
-
-::A31::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. acc. pl.__ {
-~%-100%τά
-~%100%τό
-~%-100%ἡ
-~%-100%ὁ
-~%-100%τήν
-}
-
-::A32::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. dat. sing.__ {
 ~%-100%τούς
-~%-100%τῆς
-~%-100%τῷ
-~%-100%τάς
-~%100%τό
+~%-100%τοῦ
 }
 
-::A33::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. sing.__ {
+::A33::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. pl.__ {
+~%-100%τῷ
+~%-100%τῶν
+~%-100%τῆς
+~%100%τοῖς
+~%-100%ταῖς
+}
+
+::A34::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. dat. sing.__ {
+~%-100%τοῦ
+~%-100%τῆς
+~%100%τῇ
+~%-100%τῶν
+~%-100%τῷ
+}
+
+::A35::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. nom. sing.__ {
+~%-100%τῶν
+~%-100%αἱ
+~%-100%τῆς
+~%-100%οἱ
+~%100%ἡ
+}
+
+::A36::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. sing.__ {
+~%-100%τό
+~%100%τοῦ
+~%-100%τῶν
+~%-100%τῇ
+~%-100%τούς
+}
+
+::A37::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. pl.__ {
+~%100%τῶν
+~%-100%ἡ
+~%-100%τούς
+~%-100%τό
+~%-100%τῷ
+}
+
+::A38::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. pl.__ {
+~%-100%τοῖς
+~%-100%τά
 ~%-100%τόν
-~%100%τῷ
-~%-100%ταῖς
-~%-100%τούς
-~%-100%τῶν
+~%100%τῶν
+~%-100%τοῦ
 }
 
-::A34::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. sing.__ {
-~%-100%ὁ
+::A39::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. nom. sing.__ {
+~%100%τό
 ~%-100%τά
-~%-100%ἡ
+~%-100%τούς
+~%-100%αἱ
+~%-100%τοῖς
+}
+
+::A40::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. nom. pl.__ {
+~%-100%τό
+~%-100%τῶν
+~%100%οἱ
+~%-100%τῆς
+~%-100%τῷ
+}
+
+::A41::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. dat. sing.__ {
+~%-100%τό
 ~%-100%τοῦ
 ~%100%τῇ
+~%-100%τόν
+~%-100%τῶν
 }
 
-::A35::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. sing.__ {
-~%-100%τό
-~%-100%τάς
-~%100%οἱ
+::A42::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. sing.__ {
+~%-100%τῇ
 ~%-100%τῶν
+~%100%τῷ
+~%-100%ταῖς
+~%-100%τά
+}
+
+::A43::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. acc. pl.__ {
+~%100%τάς
+~%-100%αἱ
+~%-100%τοῦ
+~%-100%ὁ
+~%-100%τῶν
+}
+
+::A44::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. nom. sing.__ {
+~%100%ὁ
+~%-100%τῷ
+~%-100%τούς
+~%-100%τῇ
+~%-100%τῶν
+}
+
+::A45::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. acc. sing.__ {
+~%-100%τάς
+~%-100%τοῖς
+~%100%τήν
+~%-100%τό
+~%-100%τῷ
+}
+
+::A46::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. pl.__ {
+~%-100%τοῦ
+~%-100%τοῖς
+~%-100%τήν
+~%100%τῶν
 ~%-100%τούς
 }
 
-::A36::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. pl.__ {
-~%100%ταῖς
-~%-100%τοῖς
-~%-100%τῶν
-~%-100%τοῦ
+::A47::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. dat. pl.__ {
+~%-100%τόν
+~%-100%τήν
 ~%-100%τῇ
+~%-100%τῶν
+~%100%ταῖς
 }
 
-::A37::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. nom. sing.__ {
-~%-100%οἱ
-~%-100%τό
+::A48::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. sing.__ {
+~%-100%τάς
+~%-100%ἡ
 ~%-100%τῶν
-~%-100%τῷ
+~%-100%τόν
 ~%100%τοῦ
 }
 
-::A38::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. nom. pl.__ {
-~%-100%τοῦ
+::A49::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. dat. sing.__ {
 ~%-100%τῆς
-~%-100%ὁ
-~%100%τῶν
-~%-100%τῇ
-}
-
-::A39::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. nom. pl.__ {
-~%-100%ὁ
-~%-100%τό
-~%-100%τῇ
-~%100%τῶν
-~%-100%τάς
-}
-
-::A40::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. sing.__ {
-~%-100%αἱ
-~%100%τῷ
-~%-100%τό
-~%-100%τῆς
-~%-100%ὁ
-}
-
-::A41::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. dat. pl.__ {
-~%-100%ἡ
-~%-100%ὁ
 ~%-100%τοῖς
-~%100%τάς
-~%-100%οἱ
-}
-
-::A42::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. gen. pl.__ {
-~%-100%ὁ
-~%-100%τοῦ
-~%-100%τήν
 ~%-100%τό
-~%100%τοῖς
-}
-
-::A43::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. acc. sing.__ {
-~%-100%αἱ
-~%-100%τούς
-~%100%οἱ
 ~%-100%τῶν
-~%-100%τοῦ
-}
-
-::A44::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. dat. pl.__ {
-~%-100%τῶν
-~%-100%τόν
-~%-100%τούς
-~%100%τάς
-~%-100%τοῦ
-}
-
-::A45::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. dat. sing.__ {
-~%100%τό
-~%-100%τοῦ
-~%-100%τῷ
-~%-100%ἡ
-~%-100%τῶν
-}
-
-::A46::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. pl.__ {
-~%-100%οἱ
-~%-100%τῇ
-~%100%ταῖς
-~%-100%τῶν
-~%-100%τοῦ
-}
-
-::A47::[markdown]Pick the correct form(s) of the definite article _the_ : __fem. gen. sing.__ {
-~%-100%τῷ
-~%-100%τῆς
-~%100%τῇ
-~%-100%αἱ
-~%-100%τῶν
-}
-
-::A48::[markdown]Pick the correct form(s) of the definite article _the_ : __masc. dat. sing.__ {
-~%-100%τῷ
-~%-100%ἡ
-~%100%τόν
-~%-100%τοῦ
-~%-100%τῶν
-}
-
-::A49::[markdown]Pick the correct form(s) of the definite article _the_ : __neut. dat. pl.__ {
-~%-100%τήν
-~%-100%οἱ
-~%-100%τοῦ
-~%100%τά
-~%-100%ταῖς
+~%100%τῷ
 }

@@ -1,0 +1,13 @@
+nouns/template_noun1.txt
+the noun _island_
+
+νῆσος
+νήσου
+νήσῳ
+νῆσον
+
+νῆσοι
+νήσων
+νήσοις
+νήσους
+

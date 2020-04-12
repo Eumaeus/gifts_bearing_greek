@@ -1,0 +1,12 @@
+nouns/template_noun1.txt
+the noun _word; story_ 
+
+λόγος
+λόγου
+λόγῳ
+λόγον
+
+λόγοι
+λόγων
+λόγοις
+λόγους
