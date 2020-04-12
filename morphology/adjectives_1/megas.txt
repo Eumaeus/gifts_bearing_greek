@@ -1,5 +1,5 @@
 adjectives_1/template_adjective_3.txt
-the pronoun/adjective "big, large; great, mighty, loud; marvelous, awesome"
+the pronoun/adjective "big, great"
 
 μέγας
 μεγάλου
@@ -18,7 +18,7 @@ the pronoun/adjective "big, large; great, mighty, loud; marvelous, awesome"
 
 μεγάλαι
 μεγάλων
-μεγάαις
+μεγάλαις
 μεγάλας
 
 μέγα
