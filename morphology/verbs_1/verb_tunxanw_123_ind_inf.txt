@@ -1,0 +1,144 @@
+// Comments and blank lines are disregarded.
+// For a non-existant form, use "-"
+// The first line is a relative path to a template
+verbs_1/template_verb_123amp.txt
+
+// The second line is a label, used in generating questions
+
+the verb _to happen_
+
+
+// TYPE THE FORM _UNDER_ THE COMMENT-LABEL
+
+// present act. 1st sing.
+τυγχάνω
+// present act. 2nd sing.
+τυγχάνεις
+// present act. 3rd sing.
+τυγχάνει
+// present act. 1st pl.
+τυγχάνομεν
+// present act. 2nd pl.
+τυγχάνετε
+// present act. 3rd pl.
+τυγχάνουσι(ν)
+
+// present act. infinitive
+τυγχάνειν
+
+// imperf. act. 1st sing.
+ἐτύγχανον
+// imperf. act. 2nd sing.
+ἐτύγχανες
+// imperf. act. 3rd sing.
+ἐτύγχανε(ν)
+
+// imperf. act. 1st pl.
+ἐτυγχάνομεν
+// imperf. act. 2nd pl.
+ἐτυγχάνετε
+// imperf. act. 3rd pl.
+ἐτύγχανον
+
+// present mid./pass. 1st sing.
+τυγχάνομαι
+// present mid./pass. 2nd sing.
+τυγχάνῃ
+// present mid./pass. 2nd sing.
+τυγχάνει
+// present mid./pass. 3rd sing.
+τυγχάνεται
+
+// present mid./pass. 1st pl.
+τυγχανόμεθα
+// present mid./pass. 2nd pl.
+τυγχάνεσθε
+// present mid./pass. 3rd pl.
+τυγχάνονται
+
+// present mid./pass. infinitive
+τυγχάνεσθαι
+
+// imperf. mid./pass. 1st sing.
+ἐτυγχανόμην
+// imperf. mid./pass. 2nd sing.
+ἐτυγχάνου
+// imperf. mid./pass. 3rd sing.
+ἐτυγχάνετο
+
+// imperf. mid./pass. 1st pl.
+ἐτυγχανόμεθα
+// imperf. mid./pass. 2nd pl.
+ἐτυγχάνεσθε
+// imperf. mid./pass. 3rd pl.
+ἐτυγχάνοντο
+
+// fut. act. 1st sing.
+-
+// fut. act. 2nd sing.
+-
+// fut. act. 3rd sing.
+-
+
+// fut. act. 1st pl.
+-
+// fut. act. 2nd pl.
+-
+// fut. act. 3rd pl.
+-
+
+// fut. act. infinitive
+-
+
+// fut. mid. 1st sing.
+τεύξομαι
+// fut. mid. 2nd sing.
+τεύξῃ
+// fut. mid. 2nd sing.
+τεύξει
+// fut. mid. 3rd sing.
+τεύξεται
+
+// fut. mid. 1st pl.
+τευξόμεθα
+// fut. mid. 2nd pl.
+τεύξεσθε
+// fut. mid. 3rd pl.
+τεύξονται
+
+// fut. mid. infinitive
+τεύξεσθαι
+
+// aorist act. 1st sing.
+ἔτυχον
+// aorist act. 2nd sing.
+ἔτυχες
+// aorist act. 3rd sing.
+ἔτυχε(ν)
+
+// aorist act. 1st pl.
+ἐτύχομεν
+// aorist act. 2nd pl.
+ἐτύχετε
+// aorist act. 3rd pl.
+ἔτυχον
+
+// aorist act. infinitive
+τυχεῖν
+
+// aorist mid. 1st sing.
+ἐτυχόμην
+// aorist mid. 2nd sing.
+ἐτύχου
+// aorist mid. 3rd sing.
+ἐτύχετο
+
+// aorist mid. 1st pl.
+ἐτυχόμεθα
+// aorist mid. 2nd pl.
+ἐτύχεσθε
+// aorist mid. 3rd pl.
+ἐτύχοντο
+
+// aorist mid. infinitive
+τθχέσθαι
